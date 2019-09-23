@@ -35,6 +35,7 @@ def face_Data(name):
         print("Face not Found")
     pass
 
+"""
 ImgList = os.listdir('./data')
 print(ImgList)
 count = 0 # 저장할 이미지 카운트 변수
@@ -44,3 +45,4 @@ while True:
     if cv2.waitKey(1) == 13 or count == len(ImgList):
         break
     print('Colleting Samples Complete!!!')
+    """
