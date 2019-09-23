@@ -1,9 +1,7 @@
 #!/usr/bin/env python
 from __future__ import absolute_import
 import google_images_download as gi
-import ssl  # ssl Error 발생 시
 
-ssl._create_default_https_context = ssl._create_unverified_context
 
 
 def imageCrawling(keyword, dir):
