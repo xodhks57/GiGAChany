@@ -39,13 +39,13 @@ def imageCrawling(keyword, dir):
 # imageCrawling('아이유','C:\GIGA\GiGAChany\\female_faces')
 # imageCrawling('사나','C:\GIGA\GiGAChany\\female_faces')
 
-imageCrawling('채영','C:\GIGA\GiGAChany\\female_faces')
-imageCrawling('나연','C:\GIGA\GiGAChany\\female_faces')
-imageCrawling('정연','C:\GIGA\GiGAChany\\female_faces')
-imageCrawling('모모','C:\GIGA\GiGAChany\\female_faces')
-imageCrawling('미나','C:\GIGA\GiGAChany\\female_faces')
-imageCrawling('다현','C:\GIGA\GiGAChany\\female_faces')
-imageCrawling('쯔위','C:\GIGA\GiGAChany\\female_faces')
+imageCrawling('채영','C:\Image')
+imageCrawling('나연','C:\Image')
+imageCrawling('정연','C:\Image')
+imageCrawling('모모','C:\Image')
+imageCrawling('미나','C:\Image')
+imageCrawling('다현','C:\Image')
+imageCrawling('쯔위','C:\Image')
 
 
 #imageCrawling('여자 증명사진','C:\GIGA\GiGAChany\\female_faces')
