@@ -3,6 +3,8 @@ import os
 import numpy as np
 
 face_classifier = cv2.CascadeClassifier('C:\\Users\\nikkeel\\.conda\\envs\\gigachany\\Library\\etc\\haarcascades\\haarcascade_frontalface_default.xml')
+#face_classifier = cv2.CascadeClassifier('C:\\Users\\nikkeel\\.conda\\envs\\gigachany\\Library\\etc\\haarcascades\\haarcascade_frontalface_default.xml')
+#face_classifier = cv2.CascadeClassifier('C:\\Users\\iotpc\\Anaconda3\\envs\\gigachany\\Library\\etc\\haarcascades\\haarcascade_frontalface_default.xml')
 
 def face_extractor(img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
