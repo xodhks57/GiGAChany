@@ -48,3 +48,8 @@ imageCrawling('다현','C:\GIGA\GiGAChany\\female_faces')
 imageCrawling('쯔위','C:\GIGA\GiGAChany\\female_faces')
 
 
+#imageCrawling('여자 증명사진','C:\GIGA\GiGAChany\\female_faces')
+#imageCrawling('남자 증명사진','C:\GIGA\GiGAChany\\male_faces')
+
+
+
