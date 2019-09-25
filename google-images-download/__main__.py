@@ -49,7 +49,7 @@ def imageCrawling(keyword, dir):
 
 
 #imageCrawling('av 얼굴','C:\GIGA\GiGAChany\\av')
-imageCrawling('남자 증명사진','C:\GIGA\GiGAChany\\man')
+imageCrawling('여자 증명사진','C:\GIGA\GiGAChany\\man')
 
 
 
