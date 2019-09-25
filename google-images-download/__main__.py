@@ -10,7 +10,7 @@ def imageCrawling(keyword, dir):
     response = gi.googleimagesdownload()
     format="jpg"
     arguments = {"keywords": keyword,  # 검색 키워드
-                 "limit": 500,  # 크롤링 이미지 수
+                 "limit": 700,  # 크롤링 이미지 수
                  "print_urls": True,  # 이미지 url 출력
                  "no_directory": True,  #
                  'output_directory': dir, # 크롤링 이미지를 저장할 폴더
@@ -49,7 +49,10 @@ def imageCrawling(keyword, dir):
 
 
 #imageCrawling('av 얼굴','C:\GIGA\GiGAChany\\av')
-imageCrawling('일반인 남자','C:\GIGA\GiGAChany\Data\\male_face')
+#imageCrawling('숏컷 여자','C:\GIGA\GiGAChany\Data\\faces')
+#imageCrawling('중년 남성','C:\GIGA\GiGAChany\Data\\faces')
+#imageCrawling('중년 남성','C:\GIGA\GiGAChany\Data\\faces')
+imageCrawling('중년 여성','C:\GIGA\GiGAChany\Data\\faces')
 
 
 
