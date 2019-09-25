@@ -10,7 +10,7 @@ def imageCrawling(keyword, dir):
     response = gi.googleimagesdownload()
     format="jpg"
     arguments = {"keywords": keyword,  # 검색 키워드
-                 "limit": 100,  # 크롤링 이미지 수
+                 "limit": 500,  # 크롤링 이미지 수
                  "print_urls": True,  # 이미지 url 출력
                  "no_directory": True,  #
                  'output_directory': dir, # 크롤링 이미지를 저장할 폴더
@@ -39,17 +39,17 @@ def imageCrawling(keyword, dir):
 # imageCrawling('아이유','C:\GIGA\GiGAChany\\female_faces')
 # imageCrawling('사나','C:\GIGA\GiGAChany\\female_faces')
 
-imageCrawling('채영','C:\Image')
-imageCrawling('나연','C:\Image')
-imageCrawling('정연','C:\Image')
-imageCrawling('모모','C:\Image')
-imageCrawling('미나','C:\Image')
-imageCrawling('다현','C:\Image')
-imageCrawling('쯔위','C:\Image')
+# imageCrawling('채영','C:\Image')
+# imageCrawling('나연','C:\Image')
+# imageCrawling('정연','C:\Image')
+# imageCrawling('모모','C:\Image')
+# imageCrawling('미나','C:\Image')
+# imageCrawling('다현','C:\Image')
+# imageCrawling('쯔위','C:\Image')
 
 
-#imageCrawling('여자 증명사진','C:\GIGA\GiGAChany\\female_faces')
-#imageCrawling('남자 증명사진','C:\GIGA\GiGAChany\\male_faces')
+#imageCrawling('av 얼굴','C:\GIGA\GiGAChany\\av')
+imageCrawling('남자 증명사진','C:\GIGA\GiGAChany\\man')
 
 
 
