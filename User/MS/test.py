@@ -17,6 +17,8 @@ def face_detector(img, size = 0.5):
     return img, face   
 
 def Gender_Checker(image, number):
+    if number == 0 : print("Female Check")
+    else : print("Male Check")
     img, face = face_detector(image)
     ModelName = ["human_female.yml", "human_male.yml"]
     try:
@@ -27,19 +29,19 @@ def Gender_Checker(image, number):
         if result[1] < 500:
             confidence = int(100 * (1 - (result[1]) / 300))
             display_string = str(confidence) + '%'
+        print("Check Complete")
         return confidence
     except:
         print("Face Not Found")
         pass 
 
-if __name__ == "__main__":
-    path = '/home/gigachany/CODE/GiGAChany/Test_JPG/images.jpg'
-    image = cv2.imread(path)
-    A = Gender_Checker(image, 0)
-    print(str(A))
-    B = Gender_Checker(image, 1)
-    print(str(B))
+def Checker_Output(A, B):
     if A > B : print("삐빅! 사진의 인물은 여성입니다.")
     elif A < B : print("삐빅! 사진의 인물은 남성입니다.")
-    else : print("삐빅! 뭐달렸는지 몰것다 썅")
+    else : print("삐빅! 사람이 아닙니다.")
+
+if __name__ == "__main__":
+    path = '/home/gigachany/CODE/GiGAChany/SendImage/images.jpg'
+    image = cv2.imread(path)
+    Checker_Output(Gender_Checker(image, 0), Gender_Checker(image, 1))
 
