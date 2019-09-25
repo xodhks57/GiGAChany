@@ -49,7 +49,8 @@ def imageCrawling(keyword, dir):
 
 
 #imageCrawling('av 얼굴','C:\GIGA\GiGAChany\\av')
-imageCrawling('여자 증명사진','C:\GIGA\GiGAChany\\man')
+imageCrawling('일반인 남자','C:\GIGA\GiGAChany\Data\\male_face')
+
 
 
 
