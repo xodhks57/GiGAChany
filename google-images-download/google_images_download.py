@@ -23,10 +23,10 @@ else:  # If the Current Version of Python is 2.x
     from urllib3 import Request, urlopen
     from urllib3 import URLError, HTTPError
     from urllib import quote
-    import httplib
+    import httplib2
     from httplib2 import IncompleteRead, BadStatusLine
 
-    httplib._MAXHEADERS = 1000
+    httplib2._MAXHEADERS = 1000
 import time  # Importing the time library to check the time of code execution
 import os
 import argparse
@@ -226,7 +226,7 @@ class googleimagesdownload:
         options.add_argument('--no-sandbox')
         options.add_argument("--headless")
         try:
-            browser = webdriver.Chrome("C:/Users/iotpc/Downloads/chromedriver", chrome_options=options)
+            browser = webdriver.Chrome("C:/GIGA/GiGAChany/google-images-download/chromedriver", chrome_options=options)
         except Exception as e:
             print("Looks like we cannot locate the path the 'chromedriver' (use the '--chromedriver' "
                   "argument to specify the path to the executable.) or google chrome browser is not "
