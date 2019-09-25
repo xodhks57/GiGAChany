@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50edbd48-e920-4b07-add3-dba33f967d7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/google-images-download/google_images_download/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/google-images-download/google_images_download/__main__.py" afterDir="false" />
-    </list>
+    <list default="true" id="50edbd48-e920-4b07-add3-dba33f967d7d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/google-images-download/google_images_download/__main__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding>
                 <element signature="e#22#60#0" expanded="true" />
               </folding>
@@ -47,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -70,12 +68,6 @@
               <item name="GiGAChany" type="462c0819:PsiDirectoryNode" />
               <item name="google-images-download" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GiGAChany" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GiGAChany" type="462c0819:PsiDirectoryNode" />
-              <item name="google-images-download" type="462c0819:PsiDirectoryNode" />
-              <item name="google_images_download" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -83,6 +75,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -113,7 +106,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21260683" />
@@ -138,7 +130,7 @@
     <entry file="file://$PROJECT_DIR$/google-images-download/google_images_download/__main__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="e#22#60#0" expanded="true" />
           </folding>
