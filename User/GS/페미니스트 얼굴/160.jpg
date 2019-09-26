@@ -1,0 +1,2270 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ko-KR" xml:lang="ko-KR" id="arve">
+<!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"/>
+<meta name="msapplication-tap-highlight" content="no"/>
+<title>제3의길 | 제3의길: 대한민국 발전을 위한 담론을 이야기합니다.</title>
+<link rel="shortcut icon" href="http://road3.kr/wp-content/themes/bct4d/images/favicon.ico" />
+<link rel="stylesheet" href="http://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+
+<!-- WordPress KBoard plugin 5.2 - http://www.cosmosfarm.com/products/kboard -->
+<link rel="alternate" href="http://road3.kr/wp-content/plugins/kboard/rss.php" type="application/rss+xml" title="제3의길 &raquo; KBoard 통합 피드">
+<!-- WordPress KBoard plugin 5.2 - http://www.cosmosfarm.com/products/kboard -->
+
+<link rel="shortcut icon" type="image/x-icon" href="http://road3.kr/wp-content/themes/bct4d/favicon.ico" />
+<link rel='dns-prefetch' href='//developers.kakao.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="제3의길 &raquo; 피드" href="http://road3.kr/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="제3의길 &raquo; 댓글 피드" href="http://road3.kr/?feed=comments-rss2" />
+<link rel="pingback" href="http://road3.kr/xmlrpc.php" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/road3.kr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='koreasns_css-css'  href='http://road3.kr/wp-content/plugins/korea-sns/korea_sns.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bct-reset-css'  href='http://road3.kr/wp-content/plugins/bct/css/reset.css?ver=20110126' type='text/css' media='all' />
+<link rel='stylesheet' id='bctheme-css'  href='http://road3.kr/wp-content/themes/bct4d/css/theme.css?ver=20150422' type='text/css' media='all' />
+<link rel='stylesheet' id='bctheme-front-page-css'  href='http://road3.kr/wp-content/themes/bct4d/css/front-page.css?ver=20150422' type='text/css' media='all' />
+<link rel='stylesheet' id='front-page-cover-css'  href='http://road3.kr/wp-content/themes/bct4d/css/front-page-cover.css?ver=20150422' type='text/css' media='all' />
+<link rel='stylesheet' id='bct4d_a-css-skin-css'  href='http://road3.kr/wp-content/themes/bct4d/skins/bct4d_a/css/skin.css?ver=20150422' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://road3.kr/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mks_shortcodes_fntawsm_css-css'  href='http://road3.kr/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css?ver=1.3.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='mks_shortcodes_simple_line_icons-css'  href='http://road3.kr/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.3.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='mks_shortcodes_css-css'  href='http://road3.kr/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.3.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='bwg_fonts-css'  href='http://road3.kr/wp-content/plugins/photo-gallery/css/bwg-fonts/fonts.css?ver=0.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sumoselect-css'  href='http://road3.kr/wp-content/plugins/photo-gallery/css/sumoselect.min.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mCustomScrollbar-css'  href='http://road3.kr/wp-content/plugins/photo-gallery/css/jquery.mCustomScrollbar.min.css?ver=1.5.34' type='text/css' media='all' />
+<link rel='stylesheet' id='bwg_frontend-css'  href='http://road3.kr/wp-content/plugins/photo-gallery/css/styles.min.css?ver=1.5.34' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='http://road3.kr/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=2.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css'  href='http://road3.kr/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.15' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-comments-skin-default-css'  href='http://road3.kr/wp-content/plugins/kboard-comments/skin/default/style.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://road3.kr/wp-content/plugins/kboard/font-awesome/css/font-awesome.min.css?ver=5.2' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://road3.kr/wp-content/plugins/kboard/font-awesome/css/font-awesome-ie7.min.css?ver=5.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='kboard-skin-default-css'  href='http://road3.kr/wp-content/plugins/kboard/skin/default/style.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kboard-editor-media-css'  href='http://road3.kr/wp-content/plugins/kboard/template/css/editor_media.css?ver=5.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kboard_comments_localize_strings = {"reply":"\ub2f5\uae00","cancel":"\ucde8\uc18c","please_enter_the_author":"\uc791\uc131\uc790\uba85\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_password":"\ube44\ubc00\ubc88\ud638\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_CAPTCHA":"\ubcf4\uc548\ucf54\ub4dc\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_content":"\ub0b4\uc6a9\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","are_you_sure_you_want_to_delete":"\uc0ad\uc81c \ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://road3.kr/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://road3.kr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://developers.kakao.com/sdk/js/kakao.min.js?ver=5.2.3'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/korea-sns/korea_sns.js?v1_5_9&#038;ver=5.2.3'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/themes/bct4d/js/common.js?ver=20150422'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/themes/bct4d/js/theme.js?ver=20150422'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/themes/bct4d/js/image-slider.js?ver=20150422'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/themes/bct4d/js/jquery.mobile.just-touch.js?ver=20150422'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/themes/bct4d/skins/bct4d_a/js/skin.js?ver=20150422'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/meks-flexible-shortcodes/js/main.js?ver=1.3.1'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/photo-gallery/js/jquery.sumoselect.min.js?ver=3.0.3'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/photo-gallery/js/jquery.mobile.min.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/photo-gallery/js/jquery.mCustomScrollbar.concat.min.js?ver=1.5.34'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/photo-gallery/js/jquery.fullscreen-0.4.1.min.js?ver=0.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bwg_objectsL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"\uc774\uac83\uc740 \uc720\ud6a8\ud55c \uc774\uba54\uc77c \uc8fc\uc18c\uac00 \uc544\ub2d9\ub2c8\ub2e4. ","bwg_search_result":"\uac80\uc0c9\uacfc \uc77c\uce58\ud558\ub294 \uc774\ubbf8\uc9c0\uac00 \uc5c6\uc2b5\ub2c8\ub2e4.","bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"\uac80\uc0c9","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"\ub313\uae00\uc744 \ud45c\uc2dc\ud569\ub2c8\ub2e4","bwg_hide_comments":" \ub313\uae00\uc744 \uc228 \uae41\ub2c8\ub2e4","bwg_restore":"\ubcf5\uc6d0\ud569\ub2c8\ub2e4","bwg_maximize":"\uadf9\ub300\ud654 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4","bwg_fullscreen":"\uc804\uccb4 \ud654\uba74","bwg_exit_fullscreen":"\uc804\uccb4 \ud654\uba74\uc744 \uc885\ub8cc\ud569\ub2c8\ub2e4","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"\uc7ac\uc0dd\ud569\ub2c8\ub2e4","pause":"\uc77c\uc2dc \uc911\uc9c0\ud569\ub2c8\ub2e4","is_pro":"","bwg_play":"\uc7ac\uc0dd\ud569\ub2c8\ub2e4","bwg_pause":"\uc77c\uc2dc \uc911\uc9c0\ud569\ub2c8\ub2e4","bwg_hide_info":"\uc815\ubcf4 \uc228\uae30\uae30","bwg_show_info":"\uc815\ubcf4\ub97c \ud45c\uc2dc\ud569\ub2c8\ub2e4","bwg_hide_rating":"\uc228\uae30\uae30 \ud3c9\uac00","bwg_show_rating":"\ud3c9\uac00\ub97c \ud45c\uc2dc\ud569\ub2c8\ub2e4","ok":"Ok","cancel":"Cancel","select_all":"Select all","lazy_load":"0","lazy_loader":"http:\/\/road3.kr\/wp-content\/plugins\/photo-gallery\/images\/ajax_loader.png","front_ajax":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.34'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=5.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0","woocommerce_gallery":"0","ajaxurl":"http:\/\/road3.kr\/wp-admin\/admin-ajax.php","nonce":"ef56e405de"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.1.0'></script>
+<link rel='https://api.w.org/' href='http://road3.kr/index.php?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://road3.kr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://road3.kr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.3" />
+
+<script data-cfasync="false">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Share",
+	Save: "Save",
+	Subscribe: "Subscribe",
+	Email: "Email",
+	Bookmark: "Bookmark",
+	ShowAll: "Show all",
+	ShowLess: "Show less",
+	FindServices: "Find service(s)",
+	FindAnyServiceToAddTo: "Instantly find any service to add to",
+	PoweredBy: "Powered by",
+	ShareViaEmail: "Share via email",
+	SubscribeViaEmail: "Subscribe via email",
+	BookmarkInYourBrowser: "Bookmark in your browser",
+	BookmarkInstructions: "Press Ctrl+D or \u2318+D to bookmark this page",
+	AddToYourFavorites: "Add to your favorites",
+	SendFromWebOrProgram: "Send from any email address or email program",
+	EmailProgram: "Email program",
+	More: "More&#8230;",
+	ThanksForSharing: "Thanks for sharing!",
+	ThanksForFollowing: "Thanks for following!"
+};
+
+(function(d,s,a,b){a=d.createElement(s);b=d.getElementsByTagName(s)[0];a.async=1;a.src="https://static.addtoany.com/menu/page.js";b.parentNode.insertBefore(a,b);})(document,"script");
+</script>
+<link rel="shortcut icon" href="http://road3.kr/wp-content/plugins/PhpSword-Favicon-Manager/images/favicon.png" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fff; }
+</style>
+					<!-- Easy Columns 2.1.1 by Pat Friedl http://www.patrickfriedl.com -->
+			<link rel="stylesheet" href="http://road3.kr/wp-content/plugins/easy-columns/css/easy-columns.css" type="text/css" media="screen, projection" />
+			<!--[if lt IE 9]> 
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js">IE7_PNG_SUFFIX=".png";</script> 
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+
+
+</head>
+<body class="home blog">
+<div id="wrap">
+<div id="header"><div id="header-main">
+
+<div id="header-main-wrap">
+
+<!-- #header-logo -->
+			<div id="header-logo">
+				<a href="http://road3.kr"><img alt="" src="http://road3.kr/wp-content/uploads/2017/08/the_third_way_kor-e1503384173803.jpg" /></a>
+			</div>
+				
+	<div id="btn-gnb-toggle">
+		<a onClick="bct.btn_gnb_toggle(this)" id="btn-gnb-toggle-e"><span>MENU</span></a>
+	</div>
+	
+</div><!-- #header-main-wrap -->
+<div id="access">	<div id="access-wrap">
+
+		<div id="header-search">
+						<form id="searchform" method="get" action="http://road3.kr/">		
+				<input type="text" class="input-text input-search-keyword" name="s" value="KEYWORD" maxlength="20" />
+				</input>
+				<button type="submit" class="submit" onclick="" onmouseout="this.className=this.className.replace(/over|down/g,'').replace(/\s+/g,' ').replace(/^\s+|\s+$/g,'');" onmouseover="this.className+=' over'" onmousedown="this.className+=' down'"><span>검색</span></button>
+			</form>
+		</div><!-- #head-search -->	
+
+		<div id="menu">
+		
+		<ul id="gnb" class="menu menu-depth-1"><li id="menu-item-1457" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-1457 menu-item-depth-1 menu-item-leaf menu-item-selected"><a href="http://road3.kr/" class="menu-link menu-link-depth-1 menu-link-leaf menu-link-selected">홈</a></li>
+<li id="menu-item-1631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1631 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=118" class="menu-link menu-link-depth-1 menu-link-leaf">헤드라인</a></li>
+<li id="menu-item-1793" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1793 menu-item-depth-1 menu-item-has-menu"><a href="http://road3.kr/?cat=123" class="menu-link menu-link-depth-1 menu-link-has-menu">연재</a>
+<ul class="sub-menu menu-depth-2">
+	<li id="menu-item-1808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1808 menu-item-depth-2 menu-item-leaf"><a href="http://road3.kr/?cat=129" class="menu-link menu-link-depth-2 menu-link-leaf">헌법이야기<img class="arrow" alt="" src="http://road3.kr/wp-content/plugins/bct/images/blank.gif" /></a></li>
+	<li id="menu-item-1807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1807 menu-item-depth-2 menu-item-leaf"><a href="http://road3.kr/?cat=130" class="menu-link menu-link-depth-2 menu-link-leaf">평판관리와 전략<img class="arrow" alt="" src="http://road3.kr/wp-content/plugins/bct/images/blank.gif" /></a></li>
+</ul>
+</li>
+<li id="menu-item-1629" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1629 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=119" class="menu-link menu-link-depth-1 menu-link-leaf">정치</a></li>
+<li id="menu-item-1628" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1628 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=120" class="menu-link menu-link-depth-1 menu-link-leaf">경제</a></li>
+<li id="menu-item-1666" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1666 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=121" class="menu-link menu-link-depth-1 menu-link-leaf">사회</a></li>
+<li id="menu-item-1632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1632 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=126" class="menu-link menu-link-depth-1 menu-link-leaf">인문/예술</a></li>
+<li id="menu-item-1633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1633 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=125" class="menu-link menu-link-depth-1 menu-link-leaf">과학기술</a></li>
+<li id="menu-item-1630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1630 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?cat=122" class="menu-link menu-link-depth-1 menu-link-leaf">라이프/기타</a></li>
+<li id="menu-item-1754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1754 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?page_id=1752" class="menu-link menu-link-depth-1 menu-link-leaf">필진소개</a></li>
+<li id="menu-item-10514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10514 menu-item-depth-1 menu-item-leaf"><a href="http://road3.kr/?page_id=10512" class="menu-link menu-link-depth-1 menu-link-leaf">게시판</a></li>
+</ul>		
+		</div><!-- #menu -->
+
+	</div><!-- #access-wrap -->
+	</div><!-- #access -->
+</div><!-- #header-main -->
+
+
+
+</div><!-- #header -->
+<div id="container">
+	<!--<div id="showcase">-->
+			<!--</div>-->
+ 
+<div id="main">
+	<div id="content">	<ul id="front-page-cover" class="cover clearfix"><li id="cover-item-1636" class="cover-item cover-item-type-container cover-item-1636 cover-item-container-con1 first-cover-item">
+<ul class="container">
+	<li id="cover-item-1637" class="cover-item cover-item-type-widget cover-item-1637 cover-item-widget-pos1 first-cover-item last-cover-item"><div id="bct-cover-widget-fprp1cwa-5" class="widget bct-cover-widget bct-cover-widget-fprp1cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">제3의길 헤드라인</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb row1 first-row col1 first-col">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22835&#038;cat=118" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/공영방송-e1569292323885-600x338-bct4designer-thumb2.jpg" /></a>
+								</div><!-- .item-thumb -->								
+								<div class="item-body">
+									<div class="item-title"><a href="http://road3.kr/?p=22835&#038;cat=118">히틀러 라디오와 문재인 정권의 미디어 정책</a></div>
+																
+									<div class="item-summary">
+										<p>¶글쓴이 : 이인철 전 방송문화진흥회 이사/변호사 -문재인정권 공영방송 &#8216;우리 민족끼리&#8217; 반일친중노선. 조선 회귀하는 586운동권 낡은 생각 지향 -&#8216;국민방송&#8217; 유튜브에 가짜뉴스 프레임 씌워. 규제법안 제출하고 구글코리아에 콘텐츠 삭제 요구 -민노총 당파성 언론노조 귀족이 방송 장악하고 특정 조직 정치 성향이 방송 콘텐츠를 좌지우지 이 글은 필자가 지난 9월 21일 광화문 동화면세점 인근 원표공원에서 진행된 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22835&amp;cat=118" data-a2a-title="히틀러 라디오와 문재인 정권의 미디어 정책"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22835%26cat%3D118&amp;linkname=%ED%9E%88%ED%8B%80%EB%9F%AC%20%EB%9D%BC%EB%94%94%EC%98%A4%EC%99%80%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%20%EC%A0%95%EA%B6%8C%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%A0%95%EC%B1%85" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22835%26cat%3D118&amp;linkname=%ED%9E%88%ED%8B%80%EB%9F%AC%20%EB%9D%BC%EB%94%94%EC%98%A4%EC%99%80%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%20%EC%A0%95%EA%B6%8C%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%A0%95%EC%B1%85" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22835%26cat%3D118&amp;linkname=%ED%9E%88%ED%8B%80%EB%9F%AC%20%EB%9D%BC%EB%94%94%EC%98%A4%EC%99%80%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%20%EC%A0%95%EA%B6%8C%EC%9D%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%A0%95%EC%B1%85" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">253</span>
+									
+									</div>																		
+								</div><!-- .item-body -->
+					
+							</div><!-- .block-list -->
+						</div>
+					</li>
+										<li class="has-thumb row1 first-row col2">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22799&#038;cat=118" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/17007_21857_1348-e1569242869671-600x338-bct4designer-thumb2.jpg" /></a>
+								</div><!-- .item-thumb -->								
+								<div class="item-body">
+									<div class="item-title"><a href="http://road3.kr/?p=22799&#038;cat=118">국정감사를 정치적 반대자 공격에 악용하나</a></div>
+																
+									<div class="item-summary">
+										<p>¶글쓴이 : 이병태 &#8211;경영학 교수로 수많은 기업 자문·프로젝트 수행. 모두 학교 통해 공개적으로 했고 숨긴 적 없어 &#8211;국공립대학이나 사립대학에 정부의 돈이 모두 들어가니 대한민국 교수들은 정부 비판 못하나? &#8211;국정감사로 정치적 반대자 공격하는 비열한 짓. 조국 같은 아비 없는 학생들, 어떻게 해야 하나 삼성바이오 수사 비판한 &#8216;카이스트 이병태 교수&#8217;&#8230; &#8220;삼성에서 거액 연구비 지원 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22799&amp;cat=118" data-a2a-title="국정감사를 정치적 반대자 공격에 악용하나"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22799%26cat%3D118&amp;linkname=%EA%B5%AD%EC%A0%95%EA%B0%90%EC%82%AC%EB%A5%BC%20%EC%A0%95%EC%B9%98%EC%A0%81%20%EB%B0%98%EB%8C%80%EC%9E%90%20%EA%B3%B5%EA%B2%A9%EC%97%90%20%EC%95%85%EC%9A%A9%ED%95%98%EB%82%98" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22799%26cat%3D118&amp;linkname=%EA%B5%AD%EC%A0%95%EA%B0%90%EC%82%AC%EB%A5%BC%20%EC%A0%95%EC%B9%98%EC%A0%81%20%EB%B0%98%EB%8C%80%EC%9E%90%20%EA%B3%B5%EA%B2%A9%EC%97%90%20%EC%95%85%EC%9A%A9%ED%95%98%EB%82%98" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22799%26cat%3D118&amp;linkname=%EA%B5%AD%EC%A0%95%EA%B0%90%EC%82%AC%EB%A5%BC%20%EC%A0%95%EC%B9%98%EC%A0%81%20%EB%B0%98%EB%8C%80%EC%9E%90%20%EA%B3%B5%EA%B2%A9%EC%97%90%20%EC%95%85%EC%9A%A9%ED%95%98%EB%82%98" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">1</span></span><span class="views">261</span>
+									
+									</div>																		
+								</div><!-- .item-body -->
+					
+							</div><!-- .block-list -->
+						</div>
+					</li>
+										<li class="has-thumb row1 first-row col3 last-col">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22794&#038;cat=118" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/중독-600x338-bct4designer-thumb2.jpg" /></a>
+								</div><!-- .item-thumb -->								
+								<div class="item-body">
+									<div class="item-title"><a href="http://road3.kr/?p=22794&#038;cat=118">한국 의료 &#8216;구멍&#8217;인 중독, 종합대책 절실하다</a></div>
+																
+									<div class="item-summary">
+										<p>¶글쓴이 : 조용수 &#8211;중독사고 사망자, 교통사고 두 배. 선진국 사고 환자 줄고, 자살 시도 인한 중독환자는 늘어 -중독정보센터 1달러 투자로 13달러 효과. 국가 전체 의료 비용 절감하고 사망률 82% 감소 &#8211;중독분석실, 해독제, 중환자 치료, 정신과 진료 등 아우르는 중독집중센터로 시너지 높여야 &#8216;극단적 선택&#8217; 대부분은 중독환자…전문센터 빨리 세워야 중독센터를 지어야 내게 자유를 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22794&amp;cat=118" data-a2a-title="한국 의료 ‘구멍’인 중독, 종합대책 절실하다"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22794%26cat%3D118&amp;linkname=%ED%95%9C%EA%B5%AD%20%EC%9D%98%EB%A3%8C%20%E2%80%98%EA%B5%AC%EB%A9%8D%E2%80%99%EC%9D%B8%20%EC%A4%91%EB%8F%85%2C%20%EC%A2%85%ED%95%A9%EB%8C%80%EC%B1%85%20%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22794%26cat%3D118&amp;linkname=%ED%95%9C%EA%B5%AD%20%EC%9D%98%EB%A3%8C%20%E2%80%98%EA%B5%AC%EB%A9%8D%E2%80%99%EC%9D%B8%20%EC%A4%91%EB%8F%85%2C%20%EC%A2%85%ED%95%A9%EB%8C%80%EC%B1%85%20%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22794%26cat%3D118&amp;linkname=%ED%95%9C%EA%B5%AD%20%EC%9D%98%EB%A3%8C%20%E2%80%98%EA%B5%AC%EB%A9%8D%E2%80%99%EC%9D%B8%20%EC%A4%91%EB%8F%85%2C%20%EC%A2%85%ED%95%A9%EB%8C%80%EC%B1%85%20%EC%A0%88%EC%8B%A4%ED%95%98%EB%8B%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">91</span>
+									
+									</div>																		
+								</div><!-- .item-body -->
+					
+							</div><!-- .block-list -->
+						</div>
+					</li>
+										<li class="has-thumb row2 last-row col1 first-col">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22634&#038;cat=118" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/2750D53F54128AC82D-e1569125946504-600x338-bct4designer-thumb2.jpg" /></a>
+								</div><!-- .item-thumb -->								
+								<div class="item-body">
+									<div class="item-title"><a href="http://road3.kr/?p=22634&#038;cat=118">정대화와 문재인의 &#8216;친일파&#8217;는 누구인가</a></div>
+																
+									<div class="item-summary">
+										<p>¶글쓴이 : 김대호 -부조리 증상에 &#8216;적폐&#8217;운운하더니 조국 사태는 조국 일가 문제가 아닌 구조와 제도 탓? -친일부역, 독재후예 등의 시비는 제도 아닌 사람(정치집단) 문제로 현재진행 중이고? -진짜 친일파는 죽고 없어 생물학적·정치적 근친과 사회문화로 확장해 신친일파 몰아 ‘조국 사태’ 뒤 소모적 정쟁… 그 뒤엔 바뀌지 않은 친일파 세상 생각해 보니 어떤 현안(부조리)의 구조와 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22634&amp;cat=118" data-a2a-title="정대화와 문재인의 ‘친일파’는 누구인가"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22634%26cat%3D118&amp;linkname=%EC%A0%95%EB%8C%80%ED%99%94%EC%99%80%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%EC%9D%98%20%E2%80%98%EC%B9%9C%EC%9D%BC%ED%8C%8C%E2%80%99%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22634%26cat%3D118&amp;linkname=%EC%A0%95%EB%8C%80%ED%99%94%EC%99%80%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%EC%9D%98%20%E2%80%98%EC%B9%9C%EC%9D%BC%ED%8C%8C%E2%80%99%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22634%26cat%3D118&amp;linkname=%EC%A0%95%EB%8C%80%ED%99%94%EC%99%80%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%EC%9D%98%20%E2%80%98%EC%B9%9C%EC%9D%BC%ED%8C%8C%E2%80%99%EB%8A%94%20%EB%88%84%EA%B5%AC%EC%9D%B8%EA%B0%80" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">245</span>
+									
+									</div>																		
+								</div><!-- .item-body -->
+					
+							</div><!-- .block-list -->
+						</div>
+					</li>
+										<li class="has-thumb row2 last-row col2">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22687&#038;cat=118" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/마녀사냥-600x338-bct4designer-thumb2.jpg" /></a>
+								</div><!-- .item-thumb -->								
+								<div class="item-body">
+									<div class="item-title"><a href="http://road3.kr/?p=22687&#038;cat=118">입에 거품 무는 우파 감별사 위한 마지막 해명</a></div>
+																
+									<div class="item-summary">
+										<p>¶글쓴이 : 이병태 -리섭 옹호? 우파 집단주의 비판한 것. 좌파PC와 성역화 틀렸다면 우파PC와 성역화도 똑같다 -누가 누굴 키우나? 리섭과 내가 탄핵 찬성한 김무성과 한패? 근거없는 비난·음모론 유포 말라 -근거 없는 인신공격과 음모론은 좌우 상관없는 전체주의적 테러일 뿐. 침묵하지 않고 싸울 것 리섭tv에서 박근혜 대통령에 대해 듣기 거북한 표현을 쓴 것으로 시작되어 일파만파로 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22687&amp;cat=118" data-a2a-title="입에 거품 무는 우파 감별사 위한 마지막 해명"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22687%26cat%3D118&amp;linkname=%EC%9E%85%EC%97%90%20%EA%B1%B0%ED%92%88%20%EB%AC%B4%EB%8A%94%20%EC%9A%B0%ED%8C%8C%20%EA%B0%90%EB%B3%84%EC%82%AC%20%EC%9C%84%ED%95%9C%20%EB%A7%88%EC%A7%80%EB%A7%89%20%ED%95%B4%EB%AA%85" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22687%26cat%3D118&amp;linkname=%EC%9E%85%EC%97%90%20%EA%B1%B0%ED%92%88%20%EB%AC%B4%EB%8A%94%20%EC%9A%B0%ED%8C%8C%20%EA%B0%90%EB%B3%84%EC%82%AC%20%EC%9C%84%ED%95%9C%20%EB%A7%88%EC%A7%80%EB%A7%89%20%ED%95%B4%EB%AA%85" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22687%26cat%3D118&amp;linkname=%EC%9E%85%EC%97%90%20%EA%B1%B0%ED%92%88%20%EB%AC%B4%EB%8A%94%20%EC%9A%B0%ED%8C%8C%20%EA%B0%90%EB%B3%84%EC%82%AC%20%EC%9C%84%ED%95%9C%20%EB%A7%88%EC%A7%80%EB%A7%89%20%ED%95%B4%EB%AA%85" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">186</span>
+									
+									</div>																		
+								</div><!-- .item-body -->
+					
+							</div><!-- .block-list -->
+						</div>
+					</li>
+										<li class="has-thumb row2 last-row col3 last-col">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22700&#038;cat=118" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/조국이해찬-e1569052537251-600x338-bct4designer-thumb2.jpg" /></a>
+								</div><!-- .item-thumb -->								
+								<div class="item-body">
+									<div class="item-title"><a href="http://road3.kr/?p=22700&#038;cat=118">문씨 집권은 조씨일가의 재산 축적 찬스</a></div>
+																
+									<div class="item-summary">
+										<p>¶글쓴이 : Adrien Kim -범죄자 조국이 자기를 수사해야 할 검사들 위에 군림하며 그들을 불러다 놓고 대화쇼? -북조선산 석탄 운반한 조국 처남의 듣보잡 해운사, 나랏돈 483억으로 해수부가 만들어 -조국 사모펀드 개인투자자들에게 수백억 손실. 문씨 집권은 조씨일가 재산 축적 찬스? 조국 만난 검사들 &#8220;왜 이런 자리 만드나…정치적으로 이용 말라&#8221; 범죄자 조국이 자기를 수사해야 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22700&amp;cat=118" data-a2a-title="문씨 집권은 조씨일가의 재산 축적 찬스"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22700%26cat%3D118&amp;linkname=%EB%AC%B8%EC%94%A8%20%EC%A7%91%EA%B6%8C%EC%9D%80%20%EC%A1%B0%EC%94%A8%EC%9D%BC%EA%B0%80%EC%9D%98%20%EC%9E%AC%EC%82%B0%20%EC%B6%95%EC%A0%81%20%EC%B0%AC%EC%8A%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22700%26cat%3D118&amp;linkname=%EB%AC%B8%EC%94%A8%20%EC%A7%91%EA%B6%8C%EC%9D%80%20%EC%A1%B0%EC%94%A8%EC%9D%BC%EA%B0%80%EC%9D%98%20%EC%9E%AC%EC%82%B0%20%EC%B6%95%EC%A0%81%20%EC%B0%AC%EC%8A%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22700%26cat%3D118&amp;linkname=%EB%AC%B8%EC%94%A8%20%EC%A7%91%EA%B6%8C%EC%9D%80%20%EC%A1%B0%EC%94%A8%EC%9D%BC%EA%B0%80%EC%9D%98%20%EC%9E%AC%EC%82%B0%20%EC%B6%95%EC%A0%81%20%EC%B0%AC%EC%8A%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">1</span></span><span class="views">262</span>
+									
+									</div>																		
+								</div><!-- .item-body -->
+					
+							</div><!-- .block-list -->
+						</div>
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=118">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1794" class="cover-item cover-item-type-container cover-item-1794 cover-item-container-con3">
+<ul class="container">
+	<li id="cover-item-1795" class="cover-item cover-item-type-widget cover-item-1795 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp3cw-4" class="widget bct-cover-widget bct-cover-widget-fprp3cw"><div class="widget-header"><h3 class="widget-title">제3의길 Hot Issue</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22646&#038;cat=161" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/탄핵-e1569030230988-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22646&#038;cat=161">박근혜 대통령 탄핵 수용하자는 자들에게</a>
+									</div>
+									
+									<div class="item-summary">
+										<p>¶글쓴이 : 길벗 -탄핵 정국에서 언론의 과장, 왜곡, 조작, 날조된 거짓의 산으로 만든 기사들을 어떻게 생각하는가 -과정의 정당성 개의치 않고 승리만이 중요? 결과만 놓고 방법과 수단, 과정을 정당화할 수는 없다 &#8211;탄핵은 광우병·천안함·세월호 음모론 등 거짓으로 오도된 여론과 선전선동을 바로잡지 못한 결과 글에 들어가기에 앞서 조국 덕분으로 내로남불 꼴통좌파 정권을 궁지로 몰아 끝장낼 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22646&amp;cat=161" data-a2a-title="박근혜 대통령 탄핵 수용하자는 자들에게"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22646%26cat%3D161&amp;linkname=%EB%B0%95%EA%B7%BC%ED%98%9C%20%EB%8C%80%ED%86%B5%EB%A0%B9%20%ED%83%84%ED%95%B5%20%EC%88%98%EC%9A%A9%ED%95%98%EC%9E%90%EB%8A%94%20%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22646%26cat%3D161&amp;linkname=%EB%B0%95%EA%B7%BC%ED%98%9C%20%EB%8C%80%ED%86%B5%EB%A0%B9%20%ED%83%84%ED%95%B5%20%EC%88%98%EC%9A%A9%ED%95%98%EC%9E%90%EB%8A%94%20%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22646%26cat%3D161&amp;linkname=%EB%B0%95%EA%B7%BC%ED%98%9C%20%EB%8C%80%ED%86%B5%EB%A0%B9%20%ED%83%84%ED%95%B5%20%EC%88%98%EC%9A%A9%ED%95%98%EC%9E%90%EB%8A%94%20%EC%9E%90%EB%93%A4%EC%97%90%EA%B2%8C" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.21</span><span class="comments"><span class="number">1</span></span><span class="views">224</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22171&#038;cat=161" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/좃국-e1568098589984-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22171&#038;cat=161">조국 임명 강행, 좌파들 여론조작 경계해야</a>
+									</div>
+									
+									<div class="item-summary">
+										<p>¶글쓴이 : 길벗 -조국이 임명됨에 따라 조국 vs 윤석렬, 청와대(문재인) vs 검찰의 운명을 건 한판 승부 불가피 -19대 대선 문재인 득표율 41%. 리얼미터 여론조사는 문재인 지지한 표본이 50~60% 차지 -무당층 표본에선 조국 임명 반대가 압도적. 이들의 사례수도 166으로 전체 501개의 33.1% 기어이 문재인이 사고를 쳤네요. 예상했던 대로 조국을 법무부 장관에 임명했습니다. 문재인은 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22171&amp;cat=161" data-a2a-title="조국 임명 강행, 좌파들 여론조작 경계해야"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22171%26cat%3D161&amp;linkname=%EC%A1%B0%EA%B5%AD%20%EC%9E%84%EB%AA%85%20%EA%B0%95%ED%96%89%2C%20%EC%A2%8C%ED%8C%8C%EB%93%A4%20%EC%97%AC%EB%A1%A0%EC%A1%B0%EC%9E%91%20%EA%B2%BD%EA%B3%84%ED%95%B4%EC%95%BC" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22171%26cat%3D161&amp;linkname=%EC%A1%B0%EA%B5%AD%20%EC%9E%84%EB%AA%85%20%EA%B0%95%ED%96%89%2C%20%EC%A2%8C%ED%8C%8C%EB%93%A4%20%EC%97%AC%EB%A1%A0%EC%A1%B0%EC%9E%91%20%EA%B2%BD%EA%B3%84%ED%95%B4%EC%95%BC" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22171%26cat%3D161&amp;linkname=%EC%A1%B0%EA%B5%AD%20%EC%9E%84%EB%AA%85%20%EA%B0%95%ED%96%89%2C%20%EC%A2%8C%ED%8C%8C%EB%93%A4%20%EC%97%AC%EB%A1%A0%EC%A1%B0%EC%9E%91%20%EA%B2%BD%EA%B3%84%ED%95%B4%EC%95%BC" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.10</span><span class="comments"><span class="number">0</span></span><span class="views">240</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=21789&#038;cat=161" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/지소미아-e1567383936598-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=21789&#038;cat=161">한일 GSOMIA 파기 의미와 파장</a>
+									</div>
+									
+									<div class="item-summary">
+										<p>¶글쓴이 : 김중로 국회의원 -북한 탄도미사일 한국·일본에 수분 안에 도달. 먼저 탐지한 나라가 협정 상대국에 정보 제공 -2017년 북한 ICBM, 대기권 진입 못하고 수㎞ 상공에서 해체. 일본의 인프라 통해 정보 입수 -한국과 일본 안보 교차점 소멸중. GSOMIA 파기는 안보협력의 마지막 연결 끈 사라지는 셈 □ 한일군사정보보호협정(한일 GSOMIA) 의의 군사정보보호협정(GSOMIA, general security [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=21789&amp;cat=161" data-a2a-title="한일 GSOMIA 파기 의미와 파장"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D21789%26cat%3D161&amp;linkname=%ED%95%9C%EC%9D%BC%20GSOMIA%20%ED%8C%8C%EA%B8%B0%20%EC%9D%98%EB%AF%B8%EC%99%80%20%ED%8C%8C%EC%9E%A5" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D21789%26cat%3D161&amp;linkname=%ED%95%9C%EC%9D%BC%20GSOMIA%20%ED%8C%8C%EA%B8%B0%20%EC%9D%98%EB%AF%B8%EC%99%80%20%ED%8C%8C%EC%9E%A5" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D21789%26cat%3D161&amp;linkname=%ED%95%9C%EC%9D%BC%20GSOMIA%20%ED%8C%8C%EA%B8%B0%20%EC%9D%98%EB%AF%B8%EC%99%80%20%ED%8C%8C%EC%9E%A5" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.2</span><span class="comments"><span class="number">0</span></span><span class="views">196</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+								</ul>	
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=161">MORE ></a></div>
+</div></li>
+	<li id="cover-item-1796" class="cover-item cover-item-type-widget cover-item-1796 cover-item-widget-pos2"><div id="bct-cover-widget-fprp3cw-3" class="widget bct-cover-widget bct-cover-widget-fprp3cw"><div class="widget-header"><h3 class="widget-title">제3의길 연재</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22890&#038;cat=34046" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/학생-e1569337717700-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22890&#038;cat=34046">[한국경제 진단과 처방] 교육시장#4 과다한 교육비</a>
+									</div>
+									
+									<div class="item-summary">
+										<p>¶글쓴이 : 전용덕 대구대 명예교수 -초·중·고 학생수 2003년 1132만5천명으로 정점. 2013년 1019만1천명. 10년만에 10% 감소 -민간 교육비 지출과 교육부 예산의 합이 GDP에서 차지하는 비중, 한국이 미국 일본 등보다 크다 -학생수는 감소하는데 교육부 예산 증대. 대부분 무상급식, 반값 등록금 등 지출이 늘어났기 때문 2. 과다한 교육비 지출 사회가 교육에 지출하는 비용은 두 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22890&amp;cat=34046" data-a2a-title="[한국경제 진단과 처방] 교육시장#4 과다한 교육비"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22890%26cat%3D34046&amp;linkname=%5B%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C%20%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EC%B2%98%EB%B0%A9%5D%20%EA%B5%90%EC%9C%A1%EC%8B%9C%EC%9E%A5%234%20%EA%B3%BC%EB%8B%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%EB%B9%84" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22890%26cat%3D34046&amp;linkname=%5B%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C%20%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EC%B2%98%EB%B0%A9%5D%20%EA%B5%90%EC%9C%A1%EC%8B%9C%EC%9E%A5%234%20%EA%B3%BC%EB%8B%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%EB%B9%84" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22890%26cat%3D34046&amp;linkname=%5B%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C%20%EC%A7%84%EB%8B%A8%EA%B3%BC%20%EC%B2%98%EB%B0%A9%5D%20%EA%B5%90%EC%9C%A1%EC%8B%9C%EC%9E%A5%234%20%EA%B3%BC%EB%8B%A4%ED%95%9C%20%EA%B5%90%EC%9C%A1%EB%B9%84" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.25</span><span class="comments"><span class="number">0</span></span><span class="views">78</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22883&#038;cat=40231" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/인촌로-e1569336240479-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22883&#038;cat=40231">실력양성 운동과 인촌의 길(4)</a>
+									</div>
+									
+									<div class="item-summary">
+										<p>¶글쓴이 : 주익종(낙성대경제연구소) -김성수 등 자산가와 지식층, 해방 후 한민당 결성. 좌익과 싸우며 이승만 도와 대한민국 건국 -민족문제연구소 등 김성수와 김연수를 &#8216;친일&#8217;로 판정. 보훈처는 김성수의 건국훈장 서훈 취소 -독립운동사에서 실력양성파 지우면 대한민국, 친일반민족행위자가 세운 나라로 정당성 상실 대한민국의 Founding Fathers를 사수(死守)하자 김성수를 비롯한 유력 자산가, 지식층 출신의 민족주의자들은 1945년 해방 후 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22883&amp;cat=40231" data-a2a-title="실력양성 운동과 인촌의 길(4)"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22883%26cat%3D40231&amp;linkname=%EC%8B%A4%EB%A0%A5%EC%96%91%EC%84%B1%20%EC%9A%B4%EB%8F%99%EA%B3%BC%20%EC%9D%B8%EC%B4%8C%EC%9D%98%20%EA%B8%B8%284%29" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22883%26cat%3D40231&amp;linkname=%EC%8B%A4%EB%A0%A5%EC%96%91%EC%84%B1%20%EC%9A%B4%EB%8F%99%EA%B3%BC%20%EC%9D%B8%EC%B4%8C%EC%9D%98%20%EA%B8%B8%284%29" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22883%26cat%3D40231&amp;linkname=%EC%8B%A4%EB%A0%A5%EC%96%91%EC%84%B1%20%EC%9A%B4%EB%8F%99%EA%B3%BC%20%EC%9D%B8%EC%B4%8C%EC%9D%98%20%EA%B8%B8%284%29" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">89</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22737&#038;cat=24791" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/KakaoTalk_20190922_124745061-e1569124142888-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22737&#038;cat=24791">세금과 인생(18) 세금 허투루 쓴 정치인의 책임</a>
+									</div>
+									
+									<div class="item-summary">
+										<p>¶글쓴이 : 고성춘 -민주당 모 국회의원은 조세범 처벌 형량이 낮다면서 형량을 강화해야 한다는 입법을 발의 &#8211;국가가 자기의 의무는 못하고, 사업자만 세금 안 낸다고 두드려 잡으면 소는 누가 잡는가? -조국 사모펀드 운용사가 국정과제만 골라 사업했다? 고혈 짠 정치인 재산, 철저 환수해야 2017년 말부터 경기가 안 좋았다고 한다. 그래서 회사가 빚을 많이 지다 보니 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22737&amp;cat=24791" data-a2a-title="세금과 인생(18) 세금 허투루 쓴 정치인의 책임"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22737%26cat%3D24791&amp;linkname=%EC%84%B8%EA%B8%88%EA%B3%BC%20%EC%9D%B8%EC%83%9D%2818%29%20%EC%84%B8%EA%B8%88%20%ED%97%88%ED%88%AC%EB%A3%A8%20%EC%93%B4%20%EC%A0%95%EC%B9%98%EC%9D%B8%EC%9D%98%20%EC%B1%85%EC%9E%84" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22737%26cat%3D24791&amp;linkname=%EC%84%B8%EA%B8%88%EA%B3%BC%20%EC%9D%B8%EC%83%9D%2818%29%20%EC%84%B8%EA%B8%88%20%ED%97%88%ED%88%AC%EB%A3%A8%20%EC%93%B4%20%EC%A0%95%EC%B9%98%EC%9D%B8%EC%9D%98%20%EC%B1%85%EC%9E%84" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22737%26cat%3D24791&amp;linkname=%EC%84%B8%EA%B8%88%EA%B3%BC%20%EC%9D%B8%EC%83%9D%2818%29%20%EC%84%B8%EA%B8%88%20%ED%97%88%ED%88%AC%EB%A3%A8%20%EC%93%B4%20%EC%A0%95%EC%B9%98%EC%9D%B8%EC%9D%98%20%EC%B1%85%EC%9E%84" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">119</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+								</ul>	
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=123">MORE ></a></div>
+</div></li>
+	<li id="cover-item-1797" class="cover-item cover-item-type-widget cover-item-1797 cover-item-widget-pos3 last-cover-item"><div id="bct-cover-widget-fprp3cw-5" class="widget bct-cover-widget bct-cover-widget-fprp3cw"><div class="widget-header"><h3 class="widget-title">지난 기사 보기</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22900&#038;cat=270" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/66-e1569343411787-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22900&#038;cat=270">[제3의길] 66호 기사들</a>
+									</div>
+									
+									<div class="item-summary">
+										<p> 자유시민을 위한 담론 광장 제66호 [ 2019년 9월 24일 ] www.road3.kr 서울 마포구 만리재옛길 101-2 이스턴빌딩 401호, 전화 : 02 785 4819 헤드라인 국정감사를 정치적 반대자 공격에 악용하나(이병태) 문씨 집권은 조씨일가의 재산 축적 찬스(Adrien Kim) 정대화와 문재인의 ‘친일파’는 누구인가(김대호) 히틀러 라디오와 문재인 정권의 미디어 정책(이인철) 한국 의료 ‘구멍’인 중독, 종합대책 절실하다(조용수) 입에 거품 무는 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22900&amp;cat=270" data-a2a-title="[제3의길] 66호 기사들"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22900%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2066%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22900%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2066%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22900%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2066%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.25</span><span class="comments"><span class="number">0</span></span><span class="views">403</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22575&#038;cat=270" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/65-e1568732295101-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22575&#038;cat=270">[제3의길] 65호 기사들</a>
+									</div>
+									
+									<div class="item-summary">
+										<p> 자유시민을 위한 담론 광장 제65호 [ 2019년 9월 17일 ] www.road3.kr 서울 마포구 만리재옛길 101-2 이스턴빌딩 401호, 전화 : 02 785 4819 헤드라인 병신오인방(丙申五人幇), 그들은 누구인가(HHMM) 문재인 정권 몰락? 야당 걱정부터 해야(한정석) 지역혐오 말라는 우파 스피커는 왜 없나(나연준) 참으로 쎄게 웃기는, 트위터 스타 조국(김대호) 조국 사건, 한 시대 마감하는 역사의 기점(홍기표) 우파 몰락과 부활의 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22575&amp;cat=270" data-a2a-title="[제3의길] 65호 기사들"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22575%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2065%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22575%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2065%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22575%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2065%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">677</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+							<div class="block-list item-highlight-block">
+							
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22282&#038;cat=270" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/64호-e1568133277878-600x338-bct4designer-thumb2.jpg" /></a>
+												
+								</div><!-- .item-thumb -->
+								
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22282&#038;cat=270">[제3의길] 64호 기사들</a>
+									</div>
+									
+									<div class="item-summary">
+										<p> 자유시민을 위한 담론 광장 제64호 [ 2019년 9월 10일 ] www.road3.kr 서울 마포구 만리재옛길 101-2 이스턴빌딩 401호, 전화 : 02 785 4819 헤드라인 ‘한겨레’ 기자들은 ‘한겨레’가 부끄럽다(한겨레 기자 31인) 조국 법대동기 검사 “사퇴하고 수사 받아야”(임무영 검사) 최순실&#8211;정유라 대신 조국&#8211;조민인가(Adrien Kim) ‘당원의 발견’이 우파정치의 블루오션(주동식) 조국 딸 입시부정이 학종까지 부정할 수 있나(조용수) 봉준호의 좌파적 세계관이 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22282&amp;cat=270" data-a2a-title="[제3의길] 64호 기사들"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22282%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2064%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22282%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2064%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22282%26cat%3D270&amp;linkname=%5B%EC%A0%9C3%EC%9D%98%EA%B8%B8%5D%2064%ED%98%B8%20%EA%B8%B0%EC%82%AC%EB%93%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+
+									<div class="item-meta">
+										<span class="date">2019.9.11</span><span class="comments"><span class="number">0</span></span><span class="views">1078</span>
+									
+									</div>									
+								</div><!-- .item-body -->
+													
+							</div><!-- .item-body-block -->
+						</div>
+					</li>
+								</ul>	
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=270">MORE ></a></div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1642" class="cover-item cover-item-type-container cover-item-1642 cover-item-container-con2">
+<ul class="container">
+	<li id="cover-item-1643" class="cover-item cover-item-type-widget cover-item-1643 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp2cwa-3" class="widget bct-cover-widget bct-cover-widget-fprp2cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">정치 TOP</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22852&#038;cat=145" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/정치-e1569323806142-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22852&#038;cat=145">[교육] 정치리더십 아카데미 &#8220;혼란할수록 공부해야&#8221;</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>대한민국 대전환과 선진통일 위한 정치리더십 아카데미(제1기) 대한민국은 지금 120년 전 구한말 국망 상황입니다. 낡고 좌편향된 국정이념이 온 사회를 파괴적인 국론분열과 갈등으로 몰아가고 있습니다. 국가 미래는 암울한데, 국가 비전과 전략은 실종 상태입니다. 혁명적 대전환이 없다면, 대한민국의 미래 또한 없습니다. 새로운 역사를 창조할 수 있는 백년지책의 경세방략을 가진 주체세력이 나와야 합니다. 한반도의 선진화와 통일을 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22852&amp;cat=145" data-a2a-title="[교육] 정치리더십 아카데미 “혼란할수록 공부해야”"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22852%26cat%3D145&amp;linkname=%5B%EA%B5%90%EC%9C%A1%5D%20%EC%A0%95%EC%B9%98%EB%A6%AC%EB%8D%94%EC%8B%AD%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%E2%80%9C%ED%98%BC%EB%9E%80%ED%95%A0%EC%88%98%EB%A1%9D%20%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC%E2%80%9D" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22852%26cat%3D145&amp;linkname=%5B%EA%B5%90%EC%9C%A1%5D%20%EC%A0%95%EC%B9%98%EB%A6%AC%EB%8D%94%EC%8B%AD%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%E2%80%9C%ED%98%BC%EB%9E%80%ED%95%A0%EC%88%98%EB%A1%9D%20%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC%E2%80%9D" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22852%26cat%3D145&amp;linkname=%5B%EA%B5%90%EC%9C%A1%5D%20%EC%A0%95%EC%B9%98%EB%A6%AC%EB%8D%94%EC%8B%AD%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8%20%E2%80%9C%ED%98%BC%EB%9E%80%ED%95%A0%EC%88%98%EB%A1%9D%20%EA%B3%B5%EB%B6%80%ED%95%B4%EC%95%BC%E2%80%9D" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">67</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22636&#038;cat=145" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/thumb_21174430-e1569282300437-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22636&#038;cat=145">조국사태의 진짜 뿌리는 전제적 국가권력</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 김대호 -한국에서 정의의 핵심인 &#8216;합리적 불평등&#8217;과 &#8216;지대 철폐 혹은 적정화&#8217;는 거의 공론화되지 않아 &#8211;소비자의 선택권·심판권 폭넓게 보장하면, 학위·학벌·자격증 위주 배제와 차별은 대폭 줄어 &#8211;조국 사태는 진영논리, 친일 청산 역사의식, 부적격자 임명 강행하는 전제적 국가권력 문제 지난 9월 19일 오후 8시부터 하는 &#8216;제 4차 서울대인 집회&#8217;에 동문으로서 연설 요청 받았다. 너무 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22636&amp;cat=145" data-a2a-title="조국사태의 진짜 뿌리는 전제적 국가권력"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22636%26cat%3D145&amp;linkname=%EC%A1%B0%EA%B5%AD%EC%82%AC%ED%83%9C%EC%9D%98%20%EC%A7%84%EC%A7%9C%20%EB%BF%8C%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%A0%9C%EC%A0%81%20%EA%B5%AD%EA%B0%80%EA%B6%8C%EB%A0%A5" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22636%26cat%3D145&amp;linkname=%EC%A1%B0%EA%B5%AD%EC%82%AC%ED%83%9C%EC%9D%98%20%EC%A7%84%EC%A7%9C%20%EB%BF%8C%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%A0%9C%EC%A0%81%20%EA%B5%AD%EA%B0%80%EA%B6%8C%EB%A0%A5" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22636%26cat%3D145&amp;linkname=%EC%A1%B0%EA%B5%AD%EC%82%AC%ED%83%9C%EC%9D%98%20%EC%A7%84%EC%A7%9C%20%EB%BF%8C%EB%A6%AC%EB%8A%94%20%EC%A0%84%EC%A0%9C%EC%A0%81%20%EA%B5%AD%EA%B0%80%EA%B6%8C%EB%A0%A5" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">1</span></span><span class="views">159</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22240&#038;cat=145" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/afd-e1569259379810-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22240&#038;cat=145">독일 &#8220;정치제도에 절대 이상형은 없다&#8221;</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 취송(翠松) -선진국의 경정치체계, 선거제도도 각국의 역사와 경험에 바탕 둔 것. 이런 맥락에서 살펴봐야 -바이마르공화국의 완전비례대표제, 14년 동안 40개 정당 난립했고 20개 정당이 의원을 배출 -어디에나 통용되는, 이상적인 정치제도는 없다. 우리의 70년 헌정, 30년 민주주의 경험 소중 이른바 선진국의 경우도 정치체계, 선거제도 등은 각국의 역사와 경험에 바탕을 둔 것으로 다른 나라의 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22240&amp;cat=145" data-a2a-title="독일 “정치제도에 절대 이상형은 없다”"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22240%26cat%3D145&amp;linkname=%EB%8F%85%EC%9D%BC%20%E2%80%9C%EC%A0%95%EC%B9%98%EC%A0%9C%EB%8F%84%EC%97%90%20%EC%A0%88%EB%8C%80%20%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%80%20%EC%97%86%EB%8B%A4%E2%80%9D" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22240%26cat%3D145&amp;linkname=%EB%8F%85%EC%9D%BC%20%E2%80%9C%EC%A0%95%EC%B9%98%EC%A0%9C%EB%8F%84%EC%97%90%20%EC%A0%88%EB%8C%80%20%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%80%20%EC%97%86%EB%8B%A4%E2%80%9D" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22240%26cat%3D145&amp;linkname=%EB%8F%85%EC%9D%BC%20%E2%80%9C%EC%A0%95%EC%B9%98%EC%A0%9C%EB%8F%84%EC%97%90%20%EC%A0%88%EB%8C%80%20%EC%9D%B4%EC%83%81%ED%98%95%EC%9D%80%20%EC%97%86%EB%8B%A4%E2%80%9D" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">108</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=145">MORE ></a></div>
+</div>
+</div></li>
+	<li id="cover-item-1644" class="cover-item cover-item-type-widget cover-item-1644 cover-item-widget-pos2 last-cover-item"><div id="bct-cover-widget-fprp2ctl-4" class="widget bct-cover-widget bct-cover-widget-fprp2ctl"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">정치 최신글</h3></div><div class="widget-body">
+			<ul>
+								<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22852&#038;cat=145">[교육] 정치리더십 아카데미 &#8220;혼란할수록 공부해야&#8221;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">67</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22636&#038;cat=145">조국사태의 진짜 뿌리는 전제적 국가권력</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">1</span></span><span class="views">159</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22240&#038;cat=145">독일 &#8220;정치제도에 절대 이상형은 없다&#8221;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">108</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22714&#038;cat=145">&#8216;박그네 닭짓&#8217; 폄하가 과연 싸울 일인가</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">195</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22611&#038;cat=145">모병제, 개인의 자유 우선하는 우파의 가치</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">102</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22589&#038;cat=145">정치인 욕, 천박하지만 막아선 안된다</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">99</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22587&#038;cat=145">가치보다 특정 정치인 숭배하는 게 자유주의?</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">1</span></span><span class="views">104</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22585&#038;cat=145">사회정의를 바라는 전국교수모임 시국선언</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">1</span></span><span class="views">97</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22517&#038;cat=145">90년대생이 투표장에 온다#25_전교조가 만든 우파</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">191</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22474&#038;cat=145">보수 위기 : 지금은 머리 깎을 때 아니다</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">206</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=119">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1660" class="cover-item cover-item-type-container cover-item-1660 cover-item-container-con2">
+<ul class="container">
+	<li id="cover-item-1661" class="cover-item cover-item-type-widget cover-item-1661 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp2cwa-8" class="widget bct-cover-widget bct-cover-widget-fprp2cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">경제 TOP</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22734&#038;cat=147" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/HP-life-26style-aw-20130807155641715437-620x349-e1569105072415-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22734&#038;cat=147">청년고용 홀로코스트 만드는 진보 좌파들</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 임건순 -진보, 좌파가 더 이상 서민, 약자들 대변하지 않아. 한국뿐만 아니라 세계적 정치 트랜드 -공무원만을 위한 정년 연장. 진보라는 자들이 내부 식민지 구축, 서민 쓸개에 호스 꼽아 -이러다간 30대 괴벨스 20대 히틀러 나올라! 검찰개혁 좋아하네. 노동개혁, 공공개혁은? 진보, 좌파라는 사람들이 심지어 정치인과 식자들 및 언론인들까지 더이상 서민, 약자들을 대변하지 않는다고 한다. [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22734&amp;cat=147" data-a2a-title="청년고용 홀로코스트 만드는 진보 좌파들"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22734%26cat%3D147&amp;linkname=%EC%B2%AD%EB%85%84%EA%B3%A0%EC%9A%A9%20%ED%99%80%EB%A1%9C%EC%BD%94%EC%8A%A4%ED%8A%B8%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%A7%84%EB%B3%B4%20%EC%A2%8C%ED%8C%8C%EB%93%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22734%26cat%3D147&amp;linkname=%EC%B2%AD%EB%85%84%EA%B3%A0%EC%9A%A9%20%ED%99%80%EB%A1%9C%EC%BD%94%EC%8A%A4%ED%8A%B8%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%A7%84%EB%B3%B4%20%EC%A2%8C%ED%8C%8C%EB%93%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22734%26cat%3D147&amp;linkname=%EC%B2%AD%EB%85%84%EA%B3%A0%EC%9A%A9%20%ED%99%80%EB%A1%9C%EC%BD%94%EC%8A%A4%ED%8A%B8%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%A7%84%EB%B3%B4%20%EC%A2%8C%ED%8C%8C%EB%93%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">118</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22744&#038;cat=147" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/식당-e1569223296162-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22744&#038;cat=147">을사오적? 이젠 경제오적들이 문제</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : Ivy Lee -손님들이 꽤 찾아오는 저녁시간에도 사장님 혼자서 주방일에 홀 서비스랑 정리에 계산까지 -직원 100여명에 매출 100억 넘는 수출 제조업체 대표님도 요즘 우거지상에 근심어린 표정 -그나마 버티던 경제, 정부 정책으로 임계점 넘어버리면 걷잡을 수 없게 무너지기 시작할 것 사무실 주변에 평균 이상 하는 돈가스집이 있다. 인생맛집 수준은 아니지만, 느끼하지 않고 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22744&amp;cat=147" data-a2a-title="을사오적? 이젠 경제오적들이 문제"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22744%26cat%3D147&amp;linkname=%EC%9D%84%EC%82%AC%EC%98%A4%EC%A0%81%3F%20%EC%9D%B4%EC%A0%A0%20%EA%B2%BD%EC%A0%9C%EC%98%A4%EC%A0%81%EB%93%A4%EC%9D%B4%20%EB%AC%B8%EC%A0%9C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22744%26cat%3D147&amp;linkname=%EC%9D%84%EC%82%AC%EC%98%A4%EC%A0%81%3F%20%EC%9D%B4%EC%A0%A0%20%EA%B2%BD%EC%A0%9C%EC%98%A4%EC%A0%81%EB%93%A4%EC%9D%B4%20%EB%AC%B8%EC%A0%9C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22744%26cat%3D147&amp;linkname=%EC%9D%84%EC%82%AC%EC%98%A4%EC%A0%81%3F%20%EC%9D%B4%EC%A0%A0%20%EA%B2%BD%EC%A0%9C%EC%98%A4%EC%A0%81%EB%93%A4%EC%9D%B4%20%EB%AC%B8%EC%A0%9C" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">119</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22682&#038;cat=147" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/우리은행-e1569218894523-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22682&#038;cat=147">우리은행 DLF “평생 파출부로 모은 9천만 원까지 날려”</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶정리 : 편집부 -&#8220;만기 없이 주식처럼 들고 있을 수 있다면 낫지. 근데 이건 만기가 있어 그냥 청산되는 게 문제&#8221; -&#8220;파생상품은 일정 시간 교육 수료와 더불어 매년 설문지 통한 1급 공격형 투자자만 거래 가능&#8221; -&#8220;우리은행은 직원들에게 잘못 떠넘기지 말고 본사가 책임지는 모습을 보여야 제1금융권 유지&#8221; 독일 국채에 투자하는 파생상품 펀드, DLF의 피해가 사회문제화하고 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22682&amp;cat=147" data-a2a-title="우리은행 DLF “평생 파출부로 모은 9천만 원까지 날려”"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22682%26cat%3D147&amp;linkname=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20DLF%20%E2%80%9C%ED%8F%89%EC%83%9D%20%ED%8C%8C%EC%B6%9C%EB%B6%80%EB%A1%9C%20%EB%AA%A8%EC%9D%80%209%EC%B2%9C%EB%A7%8C%20%EC%9B%90%EA%B9%8C%EC%A7%80%20%EB%82%A0%EB%A0%A4%E2%80%9D" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22682%26cat%3D147&amp;linkname=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20DLF%20%E2%80%9C%ED%8F%89%EC%83%9D%20%ED%8C%8C%EC%B6%9C%EB%B6%80%EB%A1%9C%20%EB%AA%A8%EC%9D%80%209%EC%B2%9C%EB%A7%8C%20%EC%9B%90%EA%B9%8C%EC%A7%80%20%EB%82%A0%EB%A0%A4%E2%80%9D" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22682%26cat%3D147&amp;linkname=%EC%9A%B0%EB%A6%AC%EC%9D%80%ED%96%89%20DLF%20%E2%80%9C%ED%8F%89%EC%83%9D%20%ED%8C%8C%EC%B6%9C%EB%B6%80%EB%A1%9C%20%EB%AA%A8%EC%9D%80%209%EC%B2%9C%EB%A7%8C%20%EC%9B%90%EA%B9%8C%EC%A7%80%20%EB%82%A0%EB%A0%A4%E2%80%9D" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">267</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=147">MORE ></a></div>
+</div>
+</div></li>
+	<li id="cover-item-1662" class="cover-item cover-item-type-widget cover-item-1662 cover-item-widget-pos2 last-cover-item"><div id="bct-cover-widget-fprp2ctl-9" class="widget bct-cover-widget bct-cover-widget-fprp2ctl"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">경제 최신글</h3></div><div class="widget-body">
+			<ul>
+								<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22734&#038;cat=147">청년고용 홀로코스트 만드는 진보 좌파들</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">118</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22744&#038;cat=147">을사오적? 이젠 경제오적들이 문제</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">119</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22682&#038;cat=147">우리은행 DLF “평생 파출부로 모은 9천만 원까지 날려”</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">267</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22639&#038;cat=147">렉서스를 만들래, 올리브 나무 갖고 싸울래?</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">100</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22566&#038;cat=147">커뮤니케이션 비용이 극소화된 사회로</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">160</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22478&#038;cat=147">미·일 FTA 타결, 우리 무역환경에 악영향 우려</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">95</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22485&#038;cat=147">[서평] 국가주의 시대의 경제와 사회</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">127</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22463&#038;cat=147">대기업 채용 &#8216;줄인다&#8217; 34%, &#8216;늘린다&#8217; 18%</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">71</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22386&#038;cat=147">100년 가업 보진재가 인쇄사업 접는 이유?</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">120</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22177&#038;cat=147">중국과 홍콩은 경제 등 너무 많이 엮여 있다</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.10</span><span class="comments"><span class="number">0</span></span><span class="views">210</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=120">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1645" class="cover-item cover-item-type-container cover-item-1645 cover-item-container-con2">
+<ul class="container">
+	<li id="cover-item-1646" class="cover-item cover-item-type-widget cover-item-1646 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp2cwa-4" class="widget bct-cover-widget bct-cover-widget-fprp2cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">사회 TOP</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22848&#038;cat=146" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/기생충-e1569324944680-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22848&#038;cat=146">MBC 조국 보도는 참사 수준이다</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : MBC노동조합 -조국 참사 도대체 어찌할 것인가? 법무부 장관에서 이제 피의자 신분으로 전환될 전망 -영화 &#8216;기생충&#8217;의 경력 위조, 드라마 &#8216;스카이캐슬&#8217;의 학종 폭주를 최고위층 집안에서 목격 -MBC 기자들, &#8216;양비론&#8217;과 ‘균형보도론’에 빠져 언론 본연의 역할을 방기하지 않았는가? 조국 참사를 도대체 어찌할 것인가? 조국 법무부 장관이 곧 피의자 신분으로 전환된다. 가족 펀드는 &#8216;블라인드 펀드&#8217;라던 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22848&amp;cat=146" data-a2a-title="MBC 조국 보도는 참사 수준이다"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22848%26cat%3D146&amp;linkname=MBC%20%EC%A1%B0%EA%B5%AD%20%EB%B3%B4%EB%8F%84%EB%8A%94%20%EC%B0%B8%EC%82%AC%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22848%26cat%3D146&amp;linkname=MBC%20%EC%A1%B0%EA%B5%AD%20%EB%B3%B4%EB%8F%84%EB%8A%94%20%EC%B0%B8%EC%82%AC%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22848%26cat%3D146&amp;linkname=MBC%20%EC%A1%B0%EA%B5%AD%20%EB%B3%B4%EB%8F%84%EB%8A%94%20%EC%B0%B8%EC%82%AC%20%EC%88%98%EC%A4%80%EC%9D%B4%EB%8B%A4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">106</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22846&#038;cat=146" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/LGBT-e1569322267378-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22846&#038;cat=146">조국, 문재인 정권의 본질 : 공산주의와 거짓말</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 권영찬(서울대 종교학과 2017학번) -문재인정권의 본질은 공산주의의 망령 아래 얽힌 종북, 친중 카르텔. 처음부터 끝까지 거짓말 일관 -공산화 1단계 풍기 문란화, 2단계 불안정화, 3단계 대위기, 4단계 재안정화. 한국은 2단계 끝자락 -사회 각 분야 장악한 공산주의자들, 청와대에 주사파 정권 진출시켜 대한민국의 각 분야 해체 나서 이 글은 지난 9월 21일 &#8216;조국 교수 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22846&amp;cat=146" data-a2a-title="조국, 문재인 정권의 본질 : 공산주의와 거짓말"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22846%26cat%3D146&amp;linkname=%EC%A1%B0%EA%B5%AD%2C%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%20%EC%A0%95%EA%B6%8C%EC%9D%98%20%EB%B3%B8%EC%A7%88%20%3A%20%EA%B3%B5%EC%82%B0%EC%A3%BC%EC%9D%98%EC%99%80%20%EA%B1%B0%EC%A7%93%EB%A7%90" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22846%26cat%3D146&amp;linkname=%EC%A1%B0%EA%B5%AD%2C%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%20%EC%A0%95%EA%B6%8C%EC%9D%98%20%EB%B3%B8%EC%A7%88%20%3A%20%EA%B3%B5%EC%82%B0%EC%A3%BC%EC%9D%98%EC%99%80%20%EA%B1%B0%EC%A7%93%EB%A7%90" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22846%26cat%3D146&amp;linkname=%EC%A1%B0%EA%B5%AD%2C%20%EB%AC%B8%EC%9E%AC%EC%9D%B8%20%EC%A0%95%EA%B6%8C%EC%9D%98%20%EB%B3%B8%EC%A7%88%20%3A%20%EA%B3%B5%EC%82%B0%EC%A3%BC%EC%9D%98%EC%99%80%20%EA%B1%B0%EC%A7%93%EB%A7%90" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">226</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22772&#038;cat=146" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/류석춘-e1569284756193-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22772&#038;cat=146">&#8216;위안부&#8217; 발언 사태에 대한 류석춘 교수 입장문</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 류석춘 연세대 교수 -매춘에 여성이 참여하게 되는 과정이 가난 때문에 ‘자의반 타의반’으로 이루어진다고 설명 -같은 질문 반복하는 수강생들에게 “궁금하면 (학생이 조사를) 한 번 해 볼래요?” 물어본 것 -대학은 기존 지식 검증해 새로운 지식 찾아야. 강의실 발언, 교수-학생 토론·대화로 끝나야 최근 수업중 &#8216;위안부&#8217; 발언으로 사회적 파장을 불러온 류석춘 연세대학교 교수가 사건의 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22772&amp;cat=146" data-a2a-title="‘위안부’ 발언 사태에 대한 류석춘 교수 입장문"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22772%26cat%3D146&amp;linkname=%E2%80%98%EC%9C%84%EC%95%88%EB%B6%80%E2%80%99%20%EB%B0%9C%EC%96%B8%20%EC%82%AC%ED%83%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A5%98%EC%84%9D%EC%B6%98%20%EA%B5%90%EC%88%98%20%EC%9E%85%EC%9E%A5%EB%AC%B8" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22772%26cat%3D146&amp;linkname=%E2%80%98%EC%9C%84%EC%95%88%EB%B6%80%E2%80%99%20%EB%B0%9C%EC%96%B8%20%EC%82%AC%ED%83%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A5%98%EC%84%9D%EC%B6%98%20%EA%B5%90%EC%88%98%20%EC%9E%85%EC%9E%A5%EB%AC%B8" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22772%26cat%3D146&amp;linkname=%E2%80%98%EC%9C%84%EC%95%88%EB%B6%80%E2%80%99%20%EB%B0%9C%EC%96%B8%20%EC%82%AC%ED%83%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EB%A5%98%EC%84%9D%EC%B6%98%20%EA%B5%90%EC%88%98%20%EC%9E%85%EC%9E%A5%EB%AC%B8" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">3</span></span><span class="views">263</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=146">MORE ></a></div>
+</div>
+</div></li>
+	<li id="cover-item-1647" class="cover-item cover-item-type-widget cover-item-1647 cover-item-widget-pos2 last-cover-item"><div id="bct-cover-widget-fprp2ctl-5" class="widget bct-cover-widget bct-cover-widget-fprp2ctl"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">사회 최신글</h3></div><div class="widget-body">
+			<ul>
+								<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22848&#038;cat=146">MBC 조국 보도는 참사 수준이다</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">106</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22846&#038;cat=146">조국, 문재인 정권의 본질 : 공산주의와 거짓말</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">226</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22772&#038;cat=146">&#8216;위안부&#8217; 발언 사태에 대한 류석춘 교수 입장문</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">3</span></span><span class="views">263</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22749&#038;cat=146">공개토론 요구 외면하면서 류석춘은 왜 죽이나</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">150</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22660&#038;cat=146">항공모함 퀸엘리자베스 호와 지원병제</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">112</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22625&#038;cat=146">&#8216;거짓말 문화&#8217; 한국인의 국민성 아닌가</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">176</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22616&#038;cat=146">스스로 정의라고 믿는 내부 종족주의</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">145</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22584&#038;cat=146">학교 형평성? 학습은 학원이 맡고 있는데</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">158</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22461&#038;cat=146">한국 행정, 도대체 무엇이 문제인가(3)</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">169</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22430&#038;cat=146">&#8220;우리 자녀들이냐, 문재인이냐!&#8221; 선택의 시점</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">54</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=121">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1648" class="cover-item cover-item-type-container cover-item-1648 cover-item-container-con2">
+<ul class="container">
+	<li id="cover-item-1649" class="cover-item cover-item-type-widget cover-item-1649 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp2cwa-5" class="widget bct-cover-widget bct-cover-widget-fprp2cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">인문/예술 TOP</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22774&#038;cat=150" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/체실비치-e1569327822303-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22774&#038;cat=150">영화 &#8216;체실 비치에서&#8217;가 보여주는 과거 고착</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 홍주현 -자기 엄마가 콤플렉스인 남자. 성적 접촉이 두려운 여자. 각자의 콤플렉스가 둘의 중매쟁이 &#8211;몸은 함께 있지만 각자 상처받았던 과거를 헤매는 이들. 눈앞 상대 이해하지 못하고 헤어져 &#8211;&#8216;몸에 새겨진 느낌 통해 과거로. 바짝 정신 차리지 않고 그 느낌 따라가면 과거에 살기 십상&#8217; 영화 &lt;체실 비치에서&gt;를 봤다. 이언 매큐언의 소설이 원작이라고 한다. [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22774&amp;cat=150" data-a2a-title="영화 ‘체실 비치에서’가 보여주는 과거 고착"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22774%26cat%3D150&amp;linkname=%EC%98%81%ED%99%94%20%E2%80%98%EC%B2%B4%EC%8B%A4%20%EB%B9%84%EC%B9%98%EC%97%90%EC%84%9C%E2%80%99%EA%B0%80%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EA%B3%BC%EA%B1%B0%20%EA%B3%A0%EC%B0%A9" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22774%26cat%3D150&amp;linkname=%EC%98%81%ED%99%94%20%E2%80%98%EC%B2%B4%EC%8B%A4%20%EB%B9%84%EC%B9%98%EC%97%90%EC%84%9C%E2%80%99%EA%B0%80%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EA%B3%BC%EA%B1%B0%20%EA%B3%A0%EC%B0%A9" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22774%26cat%3D150&amp;linkname=%EC%98%81%ED%99%94%20%E2%80%98%EC%B2%B4%EC%8B%A4%20%EB%B9%84%EC%B9%98%EC%97%90%EC%84%9C%E2%80%99%EA%B0%80%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EA%B3%BC%EA%B1%B0%20%EA%B3%A0%EC%B0%A9" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">58</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22867&#038;cat=150" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/김병로-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22867&#038;cat=150">김병로 대법원장과 사법부 독립</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 김세곤 (호남역사연구원장, 청렴연수원 청렴강사) -이승만 대통령은 친일파 처벌에 소극적. 김병로 대법원장은 반민족행위자의 신속한 처벌 주장 -사사오입 파동 “절차 밟아 개정된 법률도 헌법정신 위배되면 국민은 입법부 반성 요구할 권리” -이승만 대통령, 법무장관에게 &#8220;요즘 헌법 잘 계시나? 대법원에 헌법 한 분 계시지 않나?&#8221; 일화 서울특별시 서초동 대법원 법원전시관에서 김병로(1887∽1964) 초대 대법원장을 만났다. [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22867&amp;cat=150" data-a2a-title="김병로 대법원장과 사법부 독립"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22867%26cat%3D150&amp;linkname=%EA%B9%80%EB%B3%91%EB%A1%9C%20%EB%8C%80%EB%B2%95%EC%9B%90%EC%9E%A5%EA%B3%BC%20%EC%82%AC%EB%B2%95%EB%B6%80%20%EB%8F%85%EB%A6%BD" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22867%26cat%3D150&amp;linkname=%EA%B9%80%EB%B3%91%EB%A1%9C%20%EB%8C%80%EB%B2%95%EC%9B%90%EC%9E%A5%EA%B3%BC%20%EC%82%AC%EB%B2%95%EB%B6%80%20%EB%8F%85%EB%A6%BD" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22867%26cat%3D150&amp;linkname=%EA%B9%80%EB%B3%91%EB%A1%9C%20%EB%8C%80%EB%B2%95%EC%9B%90%EC%9E%A5%EA%B3%BC%20%EC%82%AC%EB%B2%95%EB%B6%80%20%EB%8F%85%EB%A6%BD" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">60</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22710&#038;cat=150" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/250D954D58533A6517-e1569058648568-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22710&#038;cat=150">토론의 핵심은 사실 &#8220;듣기&#8221;에 있어</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 홍주현 -북토크 질의응답 시간 &#8220;요즘 얘들은 자기 얘기만 합니다. 미국은 어떤지 궁금합니다&#8221; -엉뚱한 얘길 해도 일리 있다고 인정하는 태도 양성, 토론의 핵심은 사실 듣기에 있어 -시대 맞지 않는 엉뚱한 주장 하는 주류 세대들, 사회 문제 해결은 청년층 중심이어야 북토크에 다녀왔다. &lt;나는 뉴욕의 초보 검사입니다&gt;라는 신간의 저자 이야기를 듣는 자리였다. 아직 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22710&amp;cat=150" data-a2a-title="토론의 핵심은 사실 “듣기”에 있어"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22710%26cat%3D150&amp;linkname=%ED%86%A0%EB%A1%A0%EC%9D%98%20%ED%95%B5%EC%8B%AC%EC%9D%80%20%EC%82%AC%EC%8B%A4%20%E2%80%9C%EB%93%A3%EA%B8%B0%E2%80%9D%EC%97%90%20%EC%9E%88%EC%96%B4" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22710%26cat%3D150&amp;linkname=%ED%86%A0%EB%A1%A0%EC%9D%98%20%ED%95%B5%EC%8B%AC%EC%9D%80%20%EC%82%AC%EC%8B%A4%20%E2%80%9C%EB%93%A3%EA%B8%B0%E2%80%9D%EC%97%90%20%EC%9E%88%EC%96%B4" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22710%26cat%3D150&amp;linkname=%ED%86%A0%EB%A1%A0%EC%9D%98%20%ED%95%B5%EC%8B%AC%EC%9D%80%20%EC%82%AC%EC%8B%A4%20%E2%80%9C%EB%93%A3%EA%B8%B0%E2%80%9D%EC%97%90%20%EC%9E%88%EC%96%B4" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">80</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=150">MORE ></a></div>
+</div>
+</div></li>
+	<li id="cover-item-1650" class="cover-item cover-item-type-widget cover-item-1650 cover-item-widget-pos2 last-cover-item"><div id="bct-cover-widget-fprp2ctl-6" class="widget bct-cover-widget bct-cover-widget-fprp2ctl"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">인문/예술 최신글</h3></div><div class="widget-body">
+			<ul>
+								<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22774&#038;cat=150">영화 &#8216;체실 비치에서&#8217;가 보여주는 과거 고착</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">58</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22867&#038;cat=150">김병로 대법원장과 사법부 독립</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">60</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22710&#038;cat=150">토론의 핵심은 사실 &#8220;듣기&#8221;에 있어</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">80</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22621&#038;cat=150">나는 왜 예술의 전당에 잘 가지 않는가</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">0</span></span><span class="views">82</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22595&#038;cat=150">미래를 잊은 개인에게 역사란 없다</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">102</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22492&#038;cat=150">우파 유튜버들 사이의 논란을 보면서</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">237</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22476&#038;cat=150">&#8220;사람이 속물인지 아닌지 알아보려면&#8221;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">176</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22343&#038;cat=150">원리주의화된 남조선의 이념들 조까라 그래</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">142</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22376&#038;cat=150">어느 거대 유튜브 채널의 횡포 이대로 좋은가</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.16</span><span class="comments"><span class="number">0</span></span><span class="views">242</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22173&#038;cat=150">불법은 아니다? 그게 정의라는 의미인가</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.10</span><span class="comments"><span class="number">0</span></span><span class="views">141</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=126">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1651" class="cover-item cover-item-type-container cover-item-1651 cover-item-container-con2">
+<ul class="container">
+	<li id="cover-item-1652" class="cover-item cover-item-type-widget cover-item-1652 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp2cwa-6" class="widget bct-cover-widget bct-cover-widget-fprp2cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">과학기술 TOP</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22879&#038;cat=148" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/비닐봉투-e1569334057944-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22879&#038;cat=148">환경에 도움 안되는 일회용 비닐봉투 규제</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : Hans Bader, 번역 : 성화수 -&#8220;재사용 친환경 장바구니는 식중독 유발할 수 있고, 비닐봉투보다 환경에 나쁜 영향을 끼친다&#8221; -친환경 장바구니, 세균 번식지며 식중독, 종기, 알레르기 반응, 천식, 귀 염증 등 피부감염 위험 -표준 폴리에틸렌 식료품 비닐봉투는 재활용 종이봉투 등에 비해 환경적 영향이 현저히 낮은 편 Plastic Bag Bans Won&#8217;t Help the [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22879&amp;cat=148" data-a2a-title="환경에 도움 안되는 일회용 비닐봉투 규제"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22879%26cat%3D148&amp;linkname=%ED%99%98%EA%B2%BD%EC%97%90%20%EB%8F%84%EC%9B%80%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%9D%BC%ED%9A%8C%EC%9A%A9%20%EB%B9%84%EB%8B%90%EB%B4%89%ED%88%AC%20%EA%B7%9C%EC%A0%9C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22879%26cat%3D148&amp;linkname=%ED%99%98%EA%B2%BD%EC%97%90%20%EB%8F%84%EC%9B%80%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%9D%BC%ED%9A%8C%EC%9A%A9%20%EB%B9%84%EB%8B%90%EB%B4%89%ED%88%AC%20%EA%B7%9C%EC%A0%9C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22879%26cat%3D148&amp;linkname=%ED%99%98%EA%B2%BD%EC%97%90%20%EB%8F%84%EC%9B%80%20%EC%95%88%EB%90%98%EB%8A%94%20%EC%9D%BC%ED%9A%8C%EC%9A%A9%20%EB%B9%84%EB%8B%90%EB%B4%89%ED%88%AC%20%EA%B7%9C%EC%A0%9C" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">88</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22875&#038;cat=148" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/갤럭시폴드-e1569330748444-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22875&#038;cat=148">&#8216;갤럭시폴드&#8217; 인기몰이, 27일엔 미국시장 출시</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶정리 : 편집부 -9월 6일 1차 예약판매 10분 만에 매진. 9월 18일 개시한 2차 판매도 15분만에 매진 행진 -이베이와 중고나라 등에서 재판매도. 이베이에서는 260만원 갤럭시폴드 500만원에 판매 -영국, 프랑스, 독일, 싱가포르 등 4개 국에 출시되며 준비한 물량이 모두 팔리는 매진 행렬 삼성전자의 첫 폴더블폰인 ‘갤럭시폴드’가 인기몰이를 하며 품귀 현상까지 나타나고 있다. 국내 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22875&amp;cat=148" data-a2a-title="‘갤럭시폴드’ 인기몰이, 27일엔 미국시장 출시"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22875%26cat%3D148&amp;linkname=%E2%80%98%EA%B0%A4%EB%9F%AD%EC%8B%9C%ED%8F%B4%EB%93%9C%E2%80%99%20%EC%9D%B8%EA%B8%B0%EB%AA%B0%EC%9D%B4%2C%2027%EC%9D%BC%EC%97%94%20%EB%AF%B8%EA%B5%AD%EC%8B%9C%EC%9E%A5%20%EC%B6%9C%EC%8B%9C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22875%26cat%3D148&amp;linkname=%E2%80%98%EA%B0%A4%EB%9F%AD%EC%8B%9C%ED%8F%B4%EB%93%9C%E2%80%99%20%EC%9D%B8%EA%B8%B0%EB%AA%B0%EC%9D%B4%2C%2027%EC%9D%BC%EC%97%94%20%EB%AF%B8%EA%B5%AD%EC%8B%9C%EC%9E%A5%20%EC%B6%9C%EC%8B%9C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22875%26cat%3D148&amp;linkname=%E2%80%98%EA%B0%A4%EB%9F%AD%EC%8B%9C%ED%8F%B4%EB%93%9C%E2%80%99%20%EC%9D%B8%EA%B8%B0%EB%AA%B0%EC%9D%B4%2C%2027%EC%9D%BC%EC%97%94%20%EB%AF%B8%EA%B5%AD%EC%8B%9C%EC%9E%A5%20%EC%B6%9C%EC%8B%9C" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">19</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22503&#038;cat=148" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/돈의문-e1568715604293-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22503&#038;cat=148">스마트폰 갖다 대니 돈의문이 &#8216;팡~&#8217;</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 한아름 -기술과 문화예술의 결합. VR, AR 등 IT 확산으로 문화예술 분야 디지털 트랜스포메이션 성공 -돈의문 재현 시도 번번이 실패. 도심 한복판 교통 문제부터, 보상 등 현실적인 제약 컸기 때문 -&#8216;돈의문AR&#8217; 앱 실행 후 정동사거리 쪽 비추면, 돈의문의 웅장한 모습 가상현실로 재현해 감상 기술 자체가 모든 것을 결정하진 않는다. 사람들이 어떤 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22503&amp;cat=148" data-a2a-title="스마트폰 갖다 대니 돈의문이 ‘팡~’"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22503%26cat%3D148&amp;linkname=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EA%B0%96%EB%8B%A4%20%EB%8C%80%EB%8B%88%20%EB%8F%88%EC%9D%98%EB%AC%B8%EC%9D%B4%20%E2%80%98%ED%8C%A1~%E2%80%99" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22503%26cat%3D148&amp;linkname=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EA%B0%96%EB%8B%A4%20%EB%8C%80%EB%8B%88%20%EB%8F%88%EC%9D%98%EB%AC%B8%EC%9D%B4%20%E2%80%98%ED%8C%A1~%E2%80%99" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22503%26cat%3D148&amp;linkname=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EA%B0%96%EB%8B%A4%20%EB%8C%80%EB%8B%88%20%EB%8F%88%EC%9D%98%EB%AC%B8%EC%9D%B4%20%E2%80%98%ED%8C%A1~%E2%80%99" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">104</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=148">MORE ></a></div>
+</div>
+</div></li>
+	<li id="cover-item-1653" class="cover-item cover-item-type-widget cover-item-1653 cover-item-widget-pos2 last-cover-item"><div id="bct-cover-widget-fprp2ctl-7" class="widget bct-cover-widget bct-cover-widget-fprp2ctl"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">과학기술 최신글</h3></div><div class="widget-body">
+			<ul>
+								<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22879&#038;cat=148">환경에 도움 안되는 일회용 비닐봉투 규제</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">88</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22875&#038;cat=148">&#8216;갤럭시폴드&#8217; 인기몰이, 27일엔 미국시장 출시</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">19</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22503&#038;cat=148">스마트폰 갖다 대니 돈의문이 &#8216;팡~&#8217;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">104</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22501&#038;cat=148">골드워터 룰과 &#8216;양파&#8217;의 경우에 대하여</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">114</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22215&#038;cat=148">로봇 인류 대체론, 또 하나의 종말론일뿐</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.10</span><span class="comments"><span class="number">0</span></span><span class="views">226</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22104&#038;cat=148">동양대 직인 파일, 그거 치명적이네요</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.8</span><span class="comments"><span class="number">0</span></span><span class="views">285</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22024&#038;cat=148">발의 감각저하, 척추보다 혈관 문제일 수 있어</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.7</span><span class="comments"><span class="number">0</span></span><span class="views">159</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=21896&#038;cat=148">그 논문을 그 학생이 썼다는 건 명백한 거짓말</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.3</span><span class="comments"><span class="number">0</span></span><span class="views">1023</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=21834&#038;cat=148">나찌의 인체해부학 도감 &lt;Pernkopf&#039;s Atlas&gt;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.2</span><span class="comments"><span class="number">0</span></span><span class="views">186</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=21673&#038;cat=148">&#8220;쓰러진 사람 보면 심폐소생술 해주겠습니까?&#8221;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.8.27</span><span class="comments"><span class="number">0</span></span><span class="views">164</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=125">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-1654" class="cover-item cover-item-type-container cover-item-1654 cover-item-container-con2">
+<ul class="container">
+	<li id="cover-item-1655" class="cover-item cover-item-type-widget cover-item-1655 cover-item-widget-pos1 first-cover-item"><div id="bct-cover-widget-fprp2cwa-7" class="widget bct-cover-widget bct-cover-widget-fprp2cwa"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">라이프/기타 TOP</h3></div><div class="widget-body">
+			<ul>
+								<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22704&#038;cat=149" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/9-9-850x567-e1569056602121-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22704&#038;cat=149">&#8220;아들들이란 원래 그런 인간들이죠&#8221;</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 홍기표 -어쩌다 보니 12년 만에 다시 엄마랑 같이 살게 되었다. 쓸데없는 세간살이들을 잔뜩 갖고 오셨다 -&#8220;다 버리자구요!&#8221; 짜증냈는데 &#8220;뚱보 미녀의 00파티, 일본10491 90분&#8221; 눈 번쩍, 저거 어떡하지? -어쩌면 미싱을 고쳐보자고 생각한 이유도 엄마 때문이 아니라 미싱 가게 아가씨가 곤란해 할까봐 1. 오이잉? 뚱보 미녀의 00파티, 일본10491 90분? 어쩌다 보니 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22704&amp;cat=149" data-a2a-title="“아들들이란 원래 그런 인간들이죠”"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22704%26cat%3D149&amp;linkname=%E2%80%9C%EC%95%84%EB%93%A4%EB%93%A4%EC%9D%B4%EB%9E%80%20%EC%9B%90%EB%9E%98%20%EA%B7%B8%EB%9F%B0%20%EC%9D%B8%EA%B0%84%EB%93%A4%EC%9D%B4%EC%A3%A0%E2%80%9D" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22704%26cat%3D149&amp;linkname=%E2%80%9C%EC%95%84%EB%93%A4%EB%93%A4%EC%9D%B4%EB%9E%80%20%EC%9B%90%EB%9E%98%20%EA%B7%B8%EB%9F%B0%20%EC%9D%B8%EA%B0%84%EB%93%A4%EC%9D%B4%EC%A3%A0%E2%80%9D" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22704%26cat%3D149&amp;linkname=%E2%80%9C%EC%95%84%EB%93%A4%EB%93%A4%EC%9D%B4%EB%9E%80%20%EC%9B%90%EB%9E%98%20%EA%B7%B8%EB%9F%B0%20%EC%9D%B8%EA%B0%84%EB%93%A4%EC%9D%B4%EC%A3%A0%E2%80%9D" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">124</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22729&#038;cat=149" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/90809_29529_3658-e1569073280629-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22729&#038;cat=149">서울, 서울, 서울 살아있는 이 거리</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 손경모 -사람은 서울로 와야 된다는 말은 큰 시장에 가야 큰 꿈을 꿀 수 있다는 말, 선택지 다양 -지방의 종족주의, 패거리 의식은 사람은 적고 땅은 넓어 법보다 힘이 먼저 작용해서지 -구김살 없는 아이들, 살아있는 서울. 그에 비하면 창원은 도시가 아니라 그냥 공장이야 신촌에서 계속 이것저것 구경하다 보니 느끼는 게 좀 있다. [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22729&amp;cat=149" data-a2a-title="서울, 서울, 서울 살아있는 이 거리"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22729%26cat%3D149&amp;linkname=%EC%84%9C%EC%9A%B8%2C%20%EC%84%9C%EC%9A%B8%2C%20%EC%84%9C%EC%9A%B8%20%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94%20%EC%9D%B4%20%EA%B1%B0%EB%A6%AC" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22729%26cat%3D149&amp;linkname=%EC%84%9C%EC%9A%B8%2C%20%EC%84%9C%EC%9A%B8%2C%20%EC%84%9C%EC%9A%B8%20%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94%20%EC%9D%B4%20%EA%B1%B0%EB%A6%AC" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22729%26cat%3D149&amp;linkname=%EC%84%9C%EC%9A%B8%2C%20%EC%84%9C%EC%9A%B8%2C%20%EC%84%9C%EC%9A%B8%20%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94%20%EC%9D%B4%20%EA%B1%B0%EB%A6%AC" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">88</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+										<li class="has-thumb">
+						<div class="item-wrap">
+						
+							<div class="block-list item-highlight-block">											
+								<div class="item-thumb">
+									<a class="image-link" href="http://road3.kr/?p=22676&#038;cat=149" ><img class="thumb" alt="" src="http://road3.kr/wp-content/uploads/bct-images/2019/09/glasgo-e1569214756833-600x450-bct4designer-thumb1.jpg" /></a>
+								
+								</div><!-- .item-thumb -->								
+																		
+								<div class="item-body">									
+									<div class="item-title">
+										<a href="http://road3.kr/?p=22676&#038;cat=149">글래스고, 춥지만 좋은 사람들이 사는 도시</a>
+									</div>
+								
+									<div class="item-summary">
+										<p>¶글쓴이 : 이윤성 -패션만 보면 날씨 종잡을 수 없어. 긴옷에 점퍼 차림도, 핫팬츠에 짧은 소매도 있는 다양성 -포도, 귤, 딸기 등 우리나라의 절반 정도 가격. 한국과 달리 크기 작고 흠이 있는 물건 많아 -외관과 크기에 신경 쓰지 않아. 패션도 평범하고 자동차도 해치백, 밴, 왜건 스타일 일반적 필자는 스코틀랜드의 글래스고대학에서 법철학 석사과정을 이수하기 [&hellip;]</p>
+<div class="addtoany_share_save_container addtoany_content addtoany_content_bottom"><div class="a2a_kit a2a_kit_size_32 addtoany_list" data-a2a-url="http://road3.kr/?p=22676&amp;cat=149" data-a2a-title="글래스고, 춥지만 좋은 사람들이 사는 도시"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22676%26cat%3D149&amp;linkname=%EA%B8%80%EB%9E%98%EC%8A%A4%EA%B3%A0%2C%20%EC%B6%A5%EC%A7%80%EB%A7%8C%20%EC%A2%8B%EC%9D%80%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4%20%EC%82%AC%EB%8A%94%20%EB%8F%84%EC%8B%9C" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22676%26cat%3D149&amp;linkname=%EA%B8%80%EB%9E%98%EC%8A%A4%EA%B3%A0%2C%20%EC%B6%A5%EC%A7%80%EB%A7%8C%20%EC%A2%8B%EC%9D%80%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4%20%EC%82%AC%EB%8A%94%20%EB%8F%84%EC%8B%9C" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=http%3A%2F%2Froad3.kr%2F%3Fp%3D22676%26cat%3D149&amp;linkname=%EA%B8%80%EB%9E%98%EC%8A%A4%EA%B3%A0%2C%20%EC%B6%A5%EC%A7%80%EB%A7%8C%20%EC%A2%8B%EC%9D%80%20%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4%20%EC%82%AC%EB%8A%94%20%EB%8F%84%EC%8B%9C" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div></div>									</div><!-- .item-summary -->
+									
+									<div class="item-meta">
+										<span class="date">2019.9.23</span><span class="comments"><span class="number">2</span></span><span class="views">153</span>
+									
+									</div>									
+								</div><!-- .item-body -->								
+							</div><!-- .block-list -->
+							
+						</div>					
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=149">MORE ></a></div>
+</div>
+</div></li>
+	<li id="cover-item-1656" class="cover-item cover-item-type-widget cover-item-1656 cover-item-widget-pos2 last-cover-item"><div id="bct-cover-widget-fprp2ctl-8" class="widget bct-cover-widget bct-cover-widget-fprp2ctl"><div class="widget-wrapper">
+<div class="widget-header"><h3 class="widget-title">라이프/기타 최신글</h3></div><div class="widget-body">
+			<ul>
+								<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22704&#038;cat=149">&#8220;아들들이란 원래 그런 인간들이죠&#8221;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">124</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22729&#038;cat=149">서울, 서울, 서울 살아있는 이 거리</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.24</span><span class="comments"><span class="number">0</span></span><span class="views">88</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22676&#038;cat=149">글래스고, 춥지만 좋은 사람들이 사는 도시</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.23</span><span class="comments"><span class="number">2</span></span><span class="views">153</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22593&#038;cat=149">국민소득 수준에 비해 행복도가 낮은 이유</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.21</span><span class="comments"><span class="number">0</span></span><span class="views">138</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22543&#038;cat=149">부패는 망국의 지름길(2) 정약용 ‘애절양(哀絶陽)’</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">121</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22458&#038;cat=149">먹는다는 일, 점점 더 번거로워지는 일</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">103</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22456&#038;cat=149">조국의 악수, 리플리 증후군, 확증편향</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">153</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22363&#038;cat=149">&#8216;좋아요 뽕&#8217; SNS로 망가지는 사람들</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">135</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22356&#038;cat=149">한국 젊은이들, 명절이 괴로운 이유</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.17</span><span class="comments"><span class="number">0</span></span><span class="views">85</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+										<li>	
+						<div class="item-wrap item-highlight-block">
+						
+							<div class="item-body-block">
+								<div class="item-title">
+									<a href="http://road3.kr/?p=22350&#038;cat=149">&#8220;당신 살리려고 의료진이 얼마나 고생했는지&#8221;</a>
+								</div>
+							
+								<div class="item-meta">
+									<span class="date">2019.9.16</span><span class="comments"><span class="number">1</span></span><span class="views">217</span>
+							
+								</div>	
+							</div><!-- .item-body-block -->
+												
+						</div>			
+					</li>
+								</ul>
+			</div>
+<div class="widget-footer">
+<a class="widget-more" href="http://road3.kr/?cat=122">MORE ></a></div>
+</div>
+</div></li>
+</ul>
+</li>
+<li id="cover-item-21986" class="cover-item cover-item-type-container cover-item-21986 cover-item-container-con1 last-cover-item">
+<ul class="container">
+	<li id="cover-item-21987" class="cover-item cover-item-type-widget cover-item-21987 cover-item-widget-pos1 first-cover-item last-cover-item"><div id="bct-cover-widget-fprp1cth-5" class="widget bct-cover-widget bct-cover-widget-fprp1cth"><div class="widget-wrapper">
+<div class="widget-body">
+			<ul>
+				<li class="col1">					
+					<div class="item-summary"><p><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 수평광고 before footer -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3903993423455144"
+     data-ad-slot="5749170493"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p></div>
+				</li>			
+			</ul>
+		</div>
+</div>
+</div></li>
+</ul>
+</li>
+</ul>	</div><!-- #content -->
+
+</div><!-- #main -->
+
+
+
+</div><!-- #container -->
+<div id="footer">
+
+<div id="footer-header">
+	<ul id="fnb" class="menu clearfix"><li id="menu-item-1456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1456 menu-item-first"><a href="http://bct0013.catchkin.net/" class="menu-link menu-link-first">HOME</a></li>
+<li id="menu-item-1469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1469"><a href="http://road3.kr/?page_id=8">Sitemap</a></li>
+<li id="menu-item-1455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1455 menu-item-last"><a href="http://road3.kr/wp-login.php" class="menu-link menu-link-last">Log in</a></li>
+</ul></div><!-- #footer-header -->
+
+<div id="footer-main">
+
+		<div id="footer-logo"><img alt="" src="http://road3.kr/wp-content/uploads/2017/08/the_third_way_kor-e1503560772164.jpg" /></div>
+		
+		<div id="footer-main-text">등록번호 : 서울, 아05216 / 등록일자 : 2018년 5월 23일 / 제호 : 제3의길</br>
+발행인 : 주대환 / 편집인 : 주동식 / 청소년보호책임자 : 주동식</br>
+발행소(주소) : 서울 마포구 만리재옛길 101-2, 401호(아현동, 이스턴빌딩)/ 전화번호 : 02 785 4819 </br>
+문의  및 투고 teralux@naver.com </div>
+		
+</div><!-- #footer-main -->
+</div><!-- #footer -->
+</div><!-- #wrap -->
+<a id="goto-top"><img src="http://road3.kr/wp-content/themes/bct4d/images/goto_top.png" alt="위로이동"/></a>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bct4designer_widget_calendar_var = {"ajaxurl":"http:\/\/road3.kr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/bct4designer/widgets/default/calendar/js/calendar.js?ver=5.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var kboard_settings = {"post_url":"http:\/\/road3.kr\/wp-admin\/admin-post.php","alax_url":"http:\/\/road3.kr\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/road3.kr\/wp-content\/plugins\/kboard","media_group":"5d8c351638647"};
+var kboard_localize_strings = {"kboard_add_media":"KBoard \ubbf8\ub514\uc5b4 \ucd94\uac00","next":"\ub2e4\uc74c","prev":"\uc774\uc804","please_enter_the_title":"\uc81c\ubaa9\uc744 \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_author":"\uc791\uc131\uc790\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_password":"\ube44\ubc00\ubc88\ud638\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","please_enter_the_CAPTCHA":"\uc606\uc5d0 \ubcf4\uc774\ub294 \ubcf4\uc548\ucf54\ub4dc\ub97c \uc785\ub825\ud574\uc8fc\uc138\uc694.","you_have_already_voted":"\uc774\ubbf8 \ud22c\ud45c\ud588\uc2b5\ub2c8\ub2e4.","please_wait":"\uc7a0\uc2dc\ub9cc \uae30\ub2e4\ub824\uc8fc\uc138\uc694.","newest":"\ucd5c\uc2e0\uc21c","best":"\uc778\uae30\uc21c","updated":"\uc5c5\ub370\uc774\ud2b8\uc21c"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://road3.kr/wp-content/plugins/kboard/template/js/script.js?ver=5.2'></script>
+<script type='text/javascript' src='http://road3.kr/wp-includes/js/wp-embed.min.js?ver=5.2.3'></script>
+
+
+</body>
+</html>
