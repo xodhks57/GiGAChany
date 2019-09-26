@@ -59,13 +59,16 @@ def Checker_Output(A, B):
 def Server():
     TCP_IP = '10.10.20.54'
     TCP_PORT = 9097
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    #s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    s = socket.socket()
     s.bind((TCP_IP, TCP_PORT))
-    s.listen(True)
-    s.accept()
+    s.listen(10)
+    sc, adress = s.accept()
     img = open("/home/gigachany/CODE/GiGAChany/SendImage/images.jpg","wb")
     data = s.recv(1024)
-    img.write(data)
+    while(data):
+        img.write(data)
+        img = sc.recv(1024)
     img.close()
     print("이미지 저장 완료")
     s.close()
