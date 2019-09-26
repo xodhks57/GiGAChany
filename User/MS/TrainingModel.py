@@ -19,8 +19,8 @@ def Trainer(name, path, file):
     print("Complete [" + name + "]")
 
 if __name__ == "__main__":
-    path1 = '/home/gigachany/CODE/model/data_female/'
-    path2 = '/home/gigachany/CODE/model/data_male/'
+    path1 = '/home/gigachany/CODE/GiGAChany/data/data_female/'
+    path2 = '/home/gigachany/CODE/GiGAChany/data/data_male/'
     file1 = [f for f in ld(path1) if isfile(join(path1, f))]
     file2 = [f for f in ld(path2) if isfile(join(path2, f))]
     Trainer("human_female", path1, file1)
