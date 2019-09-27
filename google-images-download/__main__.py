@@ -54,8 +54,9 @@ def imageCrawling(keyword, dir):
 #imageCrawling('중년 남성','C:\GIGA\GiGAChany\Data\\faces')
 #imageCrawling('남자 증명 사진','C:\GIGA\GiGAChany\Data\\faces')
 #imageCrawling('여자 증명 사진','C:\GIGA\GiGAChany\Data\\faces')
+#imageCrawling('중년 여성','C:\GIGA\GiGAChany\Data\\faces')
 
-imageCrawling('중년 여성','C:\GIGA\GiGAChany\Data\\faces')
+imageCrawling('머리 긴 남자','C:\Image\male')
 
 
 
