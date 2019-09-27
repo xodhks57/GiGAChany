@@ -8,7 +8,7 @@ import urllib.request
 if __name__=="__main__":
 
     # 찾고자 하는 검색어를 url로 만들어 준다.
-    searchterm = '여자'
+    searchterm = 'gender face'
     url = "https://www.google.com/search?q=" + searchterm + "&source=lnms&tbm=isch"
     # chrom webdriver 사용하여 브라우저를 가져온다.
     browser = webdriver.Chrome('./chromedriver.exe')
@@ -50,6 +50,7 @@ if __name__=="__main__":
         imgtype = json.loads(x.get_attribute('innerHTML'))["ity"]
 
         urls = json.loads(x.get_attribute('innerHTML'))["ou"]
+        # 설치 폴더 이름 및 위치
         savename = searchterm + "/" + str(counter)+".jpg"
         try:
             urllib.request.urlretrieve(urls, savename)
