@@ -8,7 +8,7 @@ import urllib.request
 if __name__=="__main__":
 
     # 찾고자 하는 검색어를 url로 만들어 준다.
-    searchterm = 'gender face'
+    searchterm = '민머리 여자'
     url = "https://www.google.com/search?q=" + searchterm + "&source=lnms&tbm=isch"
     # chrom webdriver 사용하여 브라우저를 가져온다.
     browser = webdriver.Chrome('./chromedriver.exe')
