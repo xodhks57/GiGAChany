@@ -25,7 +25,7 @@ namespace Gigachany_2ndWeekUI
         #region * ButtonControls
         private void Button1_Click(object sender, EventArgs e) // 이미지 불러오기 버튼
         {
-            openFileDialog1.Filter = "이미지 파일(.jpg)|*.jpg|모든 파일(*.*)|*.*";
+            openFileDialog1.Filter = "이미지 파일(.jpg)|*.jpg";
             openFileDialog1.Title = "이미지 불러오기";
             openFileDialog1.FileName = "";
             openFileDialog1.ShowDialog();
@@ -62,6 +62,7 @@ namespace Gigachany_2ndWeekUI
 
         private void Button4_Click(object sender, EventArgs e) // 초기화 버튼
         {
+            isImage = false;
             pictureBox1.Image = new Bitmap(Properties.Resources.man);
         }
         
@@ -93,5 +94,4 @@ namespace Gigachany_2ndWeekUI
         }
         #endregion
     }
-
 }

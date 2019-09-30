@@ -50,5 +50,4 @@ namespace Gigachany_2ndWeekUI
         }
         #endregion
     }
-
 }
