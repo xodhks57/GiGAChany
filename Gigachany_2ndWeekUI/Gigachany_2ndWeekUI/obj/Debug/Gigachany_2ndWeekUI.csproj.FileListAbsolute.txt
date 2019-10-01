@@ -20,3 +20,4 @@ C:\Users\iotpc\Source\Repos\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\ob
 C:\Users\iotpc\Source\Repos\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.csproj.CoreCompileInputs.cache
 C:\Users\iotpc\Source\Repos\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.exe
 C:\Users\iotpc\Source\Repos\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.pdb
+C:\Users\iotpc\Source\Repos\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.Form3_ScreenShot.resources

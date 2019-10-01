@@ -30,13 +30,13 @@
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -66,98 +66,15 @@
             this.panel1.Controls.Add(this.button1);
             this.panel1.Location = new System.Drawing.Point(3, 3);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(672, 613);
+            this.panel1.Size = new System.Drawing.Size(877, 613);
             this.panel1.TabIndex = 0;
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             this.panel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
             this.panel1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
             // 
-            // button5
-            // 
-            this.button5.BackColor = System.Drawing.Color.LightCoral;
-            this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button5.Location = new System.Drawing.Point(388, 2);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(94, 66);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "종료";
-            this.button5.UseVisualStyleBackColor = false;
-            this.button5.Click += new System.EventHandler(this.Button5_Click);
-            this.button5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
-            this.button5.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
-            this.button5.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.Maroon;
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.Location = new System.Drawing.Point(293, 2);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(94, 66);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "초기화";
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.Button4_Click);
-            this.button4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
-            this.button4.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
-            this.button4.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.DarkRed;
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Location = new System.Drawing.Point(198, 2);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(94, 66);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "그래프";
-            this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.Button3_Click);
-            this.button3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
-            this.button3.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
-            this.button3.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.Brown;
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Location = new System.Drawing.Point(103, 2);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(94, 66);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "판별 시작";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.Button2_Click);
-            this.button2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
-            this.button2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
-            this.button2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
-            // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.Firebrick;
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Location = new System.Drawing.Point(8, 2);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(94, 66);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "불러오기";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.Button1_Click);
-            this.button1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
-            this.button1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
-            this.button1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
-            // 
-            // openFileDialog1
-            // 
-            this.openFileDialog1.FileName = "openFileDialog1";
-            // 
             // pictureBox1
             // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox1.Image = global::Gigachany_2ndWeekUI.Properties.Resources.Q;
             this.pictureBox1.Location = new System.Drawing.Point(8, 69);
             this.pictureBox1.Name = "pictureBox1";
@@ -169,12 +86,96 @@
             this.pictureBox1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
             this.pictureBox1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
             // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.LightCoral;
+            this.button5.FlatAppearance.BorderSize = 0;
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Image = global::Gigachany_2ndWeekUI.Properties.Resources.button_exit1;
+            this.button5.Location = new System.Drawing.Point(388, 2);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(94, 66);
+            this.button5.TabIndex = 4;
+            this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.Button5_Click);
+            this.button5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
+            this.button5.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            this.button5.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
+            // 
+            // button4
+            // 
+            this.button4.BackColor = System.Drawing.Color.Maroon;
+            this.button4.FlatAppearance.BorderSize = 0;
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Image = global::Gigachany_2ndWeekUI.Properties.Resources.button_Reset;
+            this.button4.Location = new System.Drawing.Point(293, 2);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(94, 66);
+            this.button4.TabIndex = 3;
+            this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.Button4_Click);
+            this.button4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
+            this.button4.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            this.button4.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.DarkRed;
+            this.button3.FlatAppearance.BorderSize = 0;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Image = global::Gigachany_2ndWeekUI.Properties.Resources.button_ScreenShot;
+            this.button3.Location = new System.Drawing.Point(198, 2);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(94, 66);
+            this.button3.TabIndex = 2;
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
+            this.button3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
+            this.button3.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            this.button3.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.Brown;
+            this.button2.FlatAppearance.BorderSize = 0;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Image = global::Gigachany_2ndWeekUI.Properties.Resources.button_Start;
+            this.button2.Location = new System.Drawing.Point(103, 2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(94, 66);
+            this.button2.TabIndex = 1;
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
+            this.button2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
+            this.button2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            this.button2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Firebrick;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Image = global::Gigachany_2ndWeekUI.Properties.Resources.button_load;
+            this.button1.Location = new System.Drawing.Point(8, 2);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(94, 66);
+            this.button1.TabIndex = 0;
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
+            this.button1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
+            this.button1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            this.button1.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
+            // 
+            // openFileDialog1
+            // 
+            this.openFileDialog1.FileName = "openFileDialog1";
+            // 
             // Form1_Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(475, 610);
+            this.ClientSize = new System.Drawing.Size(474, 610);
             this.ControlBox = false;
             this.Controls.Add(this.tableLayoutPanel1);
             this.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -183,6 +184,7 @@
             this.Opacity = 0.95D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.TransparencyKey = System.Drawing.Color.Maroon;
             this.tableLayoutPanel1.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

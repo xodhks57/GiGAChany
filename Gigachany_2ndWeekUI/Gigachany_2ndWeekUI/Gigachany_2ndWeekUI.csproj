@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form3_ScreenShot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3_ScreenShot.Designer.cs">
+      <DependentUpon>Form3_ScreenShot.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form2_Result.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form3_ScreenShot.resx">
+      <DependentUpon>Form3_ScreenShot.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form2_Result.resx">
       <DependentUpon>Form2_Result.cs</DependentUpon>
     </EmbeddedResource>
@@ -97,6 +106,30 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Q.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_load.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_Start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_Graph.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_Reset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_exit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_ScreenShot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_Capture.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
