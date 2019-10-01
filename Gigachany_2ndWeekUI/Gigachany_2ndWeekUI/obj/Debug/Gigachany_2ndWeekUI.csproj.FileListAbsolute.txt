@@ -9,3 +9,14 @@ C:\Users\iotpc\source\repos\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gi
 C:\Users\iotpc\source\repos\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.pdb
 C:\Users\iotpc\source\repos\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.Form1_Main.resources
 C:\Users\iotpc\source\repos\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.Form2_Result.resources
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\bin\Debug\Gigachany_2ndWeekUI.exe.config
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\bin\Debug\Gigachany_2ndWeekUI.exe
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\bin\Debug\Gigachany_2ndWeekUI.pdb
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.csprojAssemblyReference.cache
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.Form2_Result.resources
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.Form1_Main.resources
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.Properties.Resources.resources
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.csproj.GenerateResource.cache
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.csproj.CoreCompileInputs.cache
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.exe
+C:\GIGA\GiGAChany\Gigachany_2ndWeekUI\Gigachany_2ndWeekUI\obj\Debug\Gigachany_2ndWeekUI.pdb
