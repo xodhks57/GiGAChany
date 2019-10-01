@@ -1,11 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Gigachany_2ndWeekUI
@@ -14,8 +8,9 @@ namespace Gigachany_2ndWeekUI
     {
         Point fPt;
         bool isMove;
-        bool isGraph;
-        bool isImage;
+        bool isGraph = false;
+        bool isImage = false;
+        
 
         public Form1_Main()
         {
@@ -34,7 +29,7 @@ namespace Gigachany_2ndWeekUI
         #region * ButtonControls
         private void Button1_Click(object sender, EventArgs e) // 이미지 불러오기 버튼
         {
-            openFileDialog1.Filter = "이미지 파일(.jpg)|*.jpg|모든 파일(*.*)|*.*";
+            openFileDialog1.Filter = "이미지 파일(.jpg)|*.jpg";
             openFileDialog1.Title = "이미지 불러오기";
             openFileDialog1.FileName = "";
             openFileDialog1.ShowDialog();
@@ -49,8 +44,7 @@ namespace Gigachany_2ndWeekUI
         {
 			if (isImage == true)
             {
-				
-				Form2_Result F2 = new Form2_Result();
+                Form2_Result F2 = new Form2_Result();
                 F2.Show();
             }
             else MessageBox.Show("불러온 이미지가 없습니다!");
@@ -60,24 +54,32 @@ namespace Gigachany_2ndWeekUI
         {
             if (isGraph == false)
             {
-                this.SetClientSizeCore(880, 610);
-				Graph.Visible = true;
+                this.SetClientSizeCore(950, 610);
                 isGraph = true;
             }
             else if (isGraph == true)
             {
                 this.SetClientSizeCore(475, 610);
-				Graph.Visible = false;
                 isGraph = false;
-            }
+                MessageBox.Show("불러온 이미지가 없습니다!");
+            } 
+
+            
+        }
+
+        private void Button3_Click(object sender, EventArgs e) // 그래프 출력 버튼
+        {
+            Form3_ScreenShot F3 = new Form3_ScreenShot();
+            F3.Show();
         }
 
         private void Button4_Click(object sender, EventArgs e) // 초기화 버튼
         {
-            pictureBox1.Image = new Bitmap(Properties.Resources.man);
+            isImage = false;
+            this.SetClientSizeCore(474, 610);
+            pictureBox1.Image = new Bitmap(Properties.Resources.Q);
         }
         
-
         private void Button5_Click(object sender, EventArgs e) // 종료 버튼
         {
             this.Close();
@@ -104,6 +106,6 @@ namespace Gigachany_2ndWeekUI
             isMove = false;
         }
         #endregion
-    }
 
+    }
 }
